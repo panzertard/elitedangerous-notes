@@ -22,6 +22,11 @@
   {% endfor %}
 </ul>
 
+#### foreach using markdown
+{% for post in site.posts %}
+[{{ post.title }}]({{ post.title }})
+{% endfor %}
+
 #### Sitemap
 <ul>
   {% for page in site.pages %}
