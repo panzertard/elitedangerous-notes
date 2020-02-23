@@ -10,7 +10,7 @@ Maintaining notes TXT files could only get me so far, hence I decided to publish
 
 > Spelling & grammar isn't my strong side, hence, [Que](https://www.youtube.com/watch?v=edelWaQ1bng) [Sera](https://www.youtube.com/watch?v=Vbn7e-KM-NA), [Sera](https://www.youtube.com/watch?v=Wy89v5VaYKE)  
 
-# Manual Subject list
+# Tinfoil Subject list
 ### Princess Astrophile and the spiralling stars
 * [Wikipedia, Astrophile and Stella](https://en.wikipedia.org/wiki/Astrophel_and_Stella)
 * [My notes on the sonnet](./Astrophil-sonnet.md)
