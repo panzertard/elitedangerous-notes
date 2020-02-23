@@ -1,4 +1,5 @@
-# Verse 
+# Astrophil, the sonnet and Princess Astrophile
+### Raxxla Verse reference
     "To the jewel that burns on the brow of the mother of galaxies!  
     To the whisperer in witchspace, the siren of the deepest void!   
     The parent's grief, the lover's woe, and the yearning of our vagabond hearts. To Raxxla!"  
