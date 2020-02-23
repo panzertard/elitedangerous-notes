@@ -1,6 +1,6 @@
 # What is this?
-Elite Dangerous is such a wast universe. There's too many stories and references to ingame mysteries as well as real world mathematics, physics, litterature and mythology.  
-TXT files could only get me this far, hence I decided to publish my notes as a searchable repository.
+Elite Dangerous is such a wast universe. There's many stories and references to ingame mysteries as well as real world mathematics, physics, litterature and mythology.  
+Maintaining notes TXT files could only get me so far, hence I decided to publish my notes as a searchable repository.
 
 
 
