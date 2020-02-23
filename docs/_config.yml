@@ -2,8 +2,9 @@
 theme: jekyll-theme-minimal
 
 # so we need to set both of these for a project?
-baseurl: /elitedangerous-notes
 root: /elitedangerous-notes
+baseurl: /elitedangerous-notes
+url: /elitedangerous-notes
 
 defaults:
   - scope:
@@ -15,4 +16,4 @@ collections:
   posts:
     output: true
     permalink: /:categories/:year/:month/:day/:title:output_ext
-    
+
