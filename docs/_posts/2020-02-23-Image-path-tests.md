@@ -3,6 +3,7 @@ layout: post
 title:  "Image path test - Markdown linked images"
 categories: [debug]
 tags: [markdown, debug]
+author: panzertard
 ---
 
 # Test
