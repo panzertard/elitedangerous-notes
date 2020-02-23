@@ -1,4 +1,4 @@
-# Index 12
+# Index 13
 
 #### for each post
 <ul>
@@ -40,10 +40,10 @@
 <ul>
   {% for page in site.pages %}
   <li>
-    <div>"{{ page.url }}"</div>
+    <div>URL "{{ page.url }}"</div>
   </li>
   <li>
-    <div>"{{ site.baseurl }}{{ page.url }}"</div>
+    <div>BASEURL, URL "{{ site.baseurl }}{{ page.url }}"</div>
   </li>  
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
