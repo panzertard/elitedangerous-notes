@@ -1,5 +1,7 @@
   
 theme: jekyll-theme-minimal
+title: Elite Dangerous, The Quest to solve mysteries
+description: My notes and reflections on some of the mysteries in Elite Dangerous
 
 # Setting baseurl seems to work best.
 #root: /elitedangerous-notes
