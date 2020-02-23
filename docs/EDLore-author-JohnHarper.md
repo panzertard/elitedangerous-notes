@@ -5,7 +5,7 @@ Note: Emphasis are mine.
 The video-preview from this page isn't that intelligent though. You can see the timestamp at the end of the URL as "t=54" which is 54 seconds.  
 
 ## John Harper's video #1
-https://www.youtube.com/watch?v=6d8a1E88hi8
+https://www.youtube.com/watch?v=6d8a1E88hi8  
 
 > "the kind of stories I like to write and the kind of stories I like to read, which are
 adventure stories. This results a lot of action normally, but it's primarely the journey, the mystery, problemsolving, escaping and surviving.  
@@ -23,12 +23,12 @@ their ups and you feel their downs.
 
 
 ## John Harper's video #2 and statement
-Ref: https://youtu.be/mb8c2wB50QI?t=54
+Ref: https://youtu.be/mb8c2wB50QI?t=54  
 > "And of course we have INRA the Intergalactic Naval Research Arm, once a hidden
 superpower and now disbanded and gone ... 'oficially'" (wink-wink).
 NOte: He said "Research Arm", not "Reserve Arm". Most likely a tiny blooper, like we all do regarding their name.
 
-https://youtu.be/mb8c2wB50QI?t=111
+https://youtu.be/mb8c2wB50QI?t=111  
 > "INRA, officially disbanded but you can bet it's still there in the shadows.
 The group known as the 'Elite' probably always been there, perhaps quietly in the past
 but now they're coming into the fore.
@@ -36,7 +36,7 @@ The Dark Wheel, again they're the Raxxla hunters, they've always been there but 
 they're coming out to the fore as well. I'm not sure if anywone picked it up but 
 my title is a homeage to group known as The Dark Wheel"
 
-https://youtu.be/mb8c2wB50QI?t=152
+https://youtu.be/mb8c2wB50QI?t=152  
 
 > "And there's Raxxla itself, the mystery, who's rumours and sightings seem to ebb and flow on a 50 year cycle and we're approaching that 50-year peak 
 so hearing a lot more sightnings and a lot more mystery around Raxxla."
@@ -46,7 +46,7 @@ And the final words:
 
 
 ## John Harper explains that some of his use of Raxxla had to be redacted.
-https://youtu.be/44mHSAo5BGw?t=431
+https://youtu.be/44mHSAo5BGw?t=431  
 
 
 
