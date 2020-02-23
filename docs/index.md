@@ -6,7 +6,7 @@
 * [My notes on the sonnet](./Astrophil-sonnet.md)
 
 ### Authors and lore
-* [John Harper : And here the Wheel](./EDLore-author-JohnHarper.md)
+* [John Harper : And here the Wheel](./JohnHarper.md)
 
 ##### debug
 [Debugging MarkDown issues](xdebug)
