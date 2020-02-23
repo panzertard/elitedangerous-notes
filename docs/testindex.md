@@ -1,4 +1,4 @@
-# Index 4
+# Index 5
 
 #### for each post
 <ul>
@@ -33,4 +33,24 @@
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
+{% endfor %}
+
+
+#### SItemap
+<ul>
+  {% for page in site.pages %}
+  <li>
+    <div>"{{ page.url }}"</div>
+  </li>
+
+    <li>
+      <a href="{{ page.url }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+#### Assets
+{% assign image_files = site.static_files | where: "image", true %}
+{% for myimage in image_files %}
+<div>"{{ myimage.path }}"</div>
 {% endfor %}
