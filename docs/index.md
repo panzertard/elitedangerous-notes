@@ -18,7 +18,12 @@ Maintaining notes TXT files could only get me so far, hence I decided to publish
 ### Authors on the topic of Lore
 * [Notes: John Harper : And here the Wheel](./JohnHarper.md)
 * [Drew Wagar : Answering Lore questions](https://forums.frontier.co.uk/threads/lore-questions.459433/)  
-    * [Drew Wagar's lorebrary over at Canonn](https://canonn.science/game-lore/)  (yes, lorebrary is a new word now)
+
+
+
+### External sites study
+* [Drew Wagar's lorebrary over at Canonn.science](https://canonn.science/game-lore/)  (yes, lorebrary is a new word now)
+* [Fandom, Raxxla](https://elite-dangerous.fandom.com/wiki/Raxxla)
 
 ##### debug
 [Debugging MarkDown issues](xdebug)
