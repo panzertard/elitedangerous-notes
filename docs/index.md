@@ -11,12 +11,14 @@ Maintaining notes TXT files could only get me so far, hence I decided to publish
 > Spelling & grammar isn't my strong side, hence, [Que](https://www.youtube.com/watch?v=edelWaQ1bng) [Sera](https://www.youtube.com/watch?v=Vbn7e-KM-NA), [Sera](https://www.youtube.com/watch?v=Wy89v5VaYKE)  
 
 # Tinfoil Subject list
-### Princess Astrophile and the spiralling stars
-* [Wikipedia, Astrophile and Stella](https://en.wikipedia.org/wiki/Astrophel_and_Stella)
-* [My notes on the sonnet](./Astrophil-sonnet.md)
+### Princess Astrophel and Spiralling Stars
+* [Wikipedia: Astrophile and Stella](https://en.wikipedia.org/wiki/Astrophel_and_Stella)
+* [Astrophile and Stella sonnet notes](./Astrophil-sonnet.md)
 
-### Authors and lore
-* [John Harper : And here the Wheel](./JohnHarper.md)
+### Authors on the topic of Lore
+* [Notes: John Harper : And here the Wheel](./JohnHarper.md)
+* [Drew Wagar : Answering Lore questions](https://forums.frontier.co.uk/threads/lore-questions.459433/)  
+    * [Drew Wagar's lorebrary over at Canonn](https://canonn.science/game-lore/)  (yes, lorebrary is a new word now)
 
 ##### debug
 [Debugging MarkDown issues](xdebug)
