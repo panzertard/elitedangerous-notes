@@ -1,6 +1,13 @@
   
 theme: jekyll-theme-minimal
+baseurl: /elitedangerous-notes
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+      
 collections:
   posts:
     output: true

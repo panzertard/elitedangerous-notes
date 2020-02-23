@@ -1,4 +1,4 @@
-# Index 5
+# Index 6
 
 #### for each post
 <ul>
@@ -42,7 +42,6 @@
   <li>
     <div>"{{ page.url }}"</div>
   </li>
-
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
