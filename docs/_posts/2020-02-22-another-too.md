@@ -7,7 +7,10 @@ title:  "Test too 2"
 This is a post
 
 
-![avatar-wo-baseurl](/assets/panzertard-sf.jpg)  
-![avatar-w-hardcoded-baseurl](/elitedangerous-notes/assets/panzertard-sf.jpg)  
-![avatar-w-relative-updir](/../assets/panzertard-sf.jpg)  
+![assets-wo-baseurl](/assets/panzertard-sf.jpg)  
+![assets-w-hardcoded-baseurl](/elitedangerous-notes/assets/panzertard-sf.jpg)  
+![assets-w-relative-updir](/../assets/panzertard-sf.jpg)  
 
+![assets-img-wo-baseurl](/assets/img/panzertard-sf.jpg)  
+![assets-img-w-hardcoded-baseurl](/elitedangerous-notes/assets/img/panzertard-sf.jpg)  
+![assets-img-w-relative-updir](/../assets/img/panzertard-sf.jpg)  
