@@ -1,4 +1,4 @@
-# Index 11
+# Index 12
 
 #### for each post
 <ul>
@@ -36,12 +36,15 @@
 {% endfor %}
 
 
-#### SItemap
+#### Sitemap 2
 <ul>
   {% for page in site.pages %}
   <li>
     <div>"{{ page.url }}"</div>
   </li>
+  <li>
+    <div>"{{ site.baseurl }}{{ page.url }}"</div>
+  </li>  
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </li>

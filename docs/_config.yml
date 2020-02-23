@@ -6,6 +6,8 @@ root: /elitedangerous-notes
 #baseurl: /elitedangerous-notes
 url: /elitedangerous-notes
 
+#permalink: /elitedangerous-notes/:categories/:title/
+
 defaults:
   - scope:
       path: "assets/img"
@@ -15,5 +17,5 @@ defaults:
 collections:
   posts:
     output: true
-    permalink: /:categories/:year/:month/:day/:title:output_ext
+    permalink: /elitedangerous-notes/:categories/:title/
 
