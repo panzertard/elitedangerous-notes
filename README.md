@@ -1,5 +1,5 @@
 # What is this?
-Elite Dangerous is such a waste game and universe. There's too many stories and references to ingame mysteries as well as real world mathematics, physics, litterature and mythology.  
+Elite Dangerous is such a wast universe. There's too many stories and references to ingame mysteries as well as real world mathematics, physics, litterature and mythology.  
 TXT files could only get me this far, hence I decided to publish my notes as a searchable repository.
 
 
