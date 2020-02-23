@@ -1,6 +1,7 @@
   
 theme: jekyll-theme-minimal
-baseurl: /elitedangerous-notes
+#baseurl: /elitedangerous-notes
+root: /elitedangerous-notes
 
 defaults:
   - scope:
@@ -11,5 +12,5 @@ defaults:
 collections:
   posts:
     output: true
-    permalink: /elitedangerous-notes/:categories/:year/:month/:day/:title:output_ext
+    permalink: /:categories/:year/:month/:day/:title:output_ext
     
