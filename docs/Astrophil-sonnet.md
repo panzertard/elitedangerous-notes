@@ -5,20 +5,20 @@
     The parent's grief, the lover's woe, and the yearning of our vagabond hearts. To Raxxla!"  
 
 # Relevant Authors and works  
-- Phillip Sidney : https://en.wikipedia.org/wiki/Philip_Sidney  
-	- Astrophel and Stella : https://en.wikipedia.org/wiki/Astrophel_and_Stella  
-	    - http://www.gradesaver.com/astrophil-and-stella/  
-	- Mary Sidney : Arcadia https://en.wikipedia.org/wiki/Mary_Sidney  
-- John Milton : https://en.wikipedia.org/wiki/John_Milton  
-	- Paradise Lost : https://www.dartmouth.edu/~milton/reading_room/pl/book_1/text.shtml
+- Phillip Sidney : <https://en.wikipedia.org/wiki/Philip_Sidney>  
+	- Astrophel and Stella : <https://en.wikipedia.org/wiki/Astrophel_and_Stella>  
+	    - <http://www.gradesaver.com/astrophil-and-stella/>  
+	- Mary Sidney : Arcadia <https://en.wikipedia.org/wiki/Mary_Sidney>  
+- John Milton : <https://en.wikipedia.org/wiki/John_Milton>  
+	- Paradise Lost : <https://www.dartmouth.edu/~milton/reading_room/pl/book_1/text.shtml>
 
 # Discussions
-https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8293878  
+<https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-8293878>  
 > "Intoxicating vapours, were thought to have been inhaled by the oracle which drifted up, emanated 
 from a crack in the ground (rift) where Python / Pytho was slayed by Apollo (coins have been located 
 which depict a serpent wound around the Omphalos or sat upon by Apollo)."  
 
-https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-7387451  
+<https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/post-7387451>  
 > "Using this I took the jewel that burns on the brow of the mother of galaxies as a reference 
 but to what area of the galaxy I don't yet know, the only thing that came to mind straight away 
 was the minor faction, Mother Gaia but this theory will need some work.
@@ -34,29 +34,30 @@ on the codex there are two regions that seem to relate to this, Lyras Song and T
 Apollo appears as `Phoebus`.
 - Apollo
 - Delphi
-	- Pythia https://en.wikipedia.org/wiki/Pythia
+	- Pythia <https://en.wikipedia.org/wiki/Pythia>
 		- [Oilpainting John Collier Priestess of Delphi](https://en.wikipedia.org/wiki/File:John_Collier_-_Priestess_of_Delphi.jpg)
-			- Sybil https://en.wikipedia.org/wiki/Sibyl
+			- Sybil <https://en.wikipedia.org/wiki/Sibyl>
 		- Themis
 		- Phoebe
-		- Gaia / Gaea https://en.wikipedia.org/wiki/Gaia
-		- Speaking in Dactylic hexameter https://en.wikipedia.org/wiki/Dactylic_hexameter
-			- Later in Prose https://en.wikipedia.org/wiki/Prose
+		- Gaia / Gaea <https://en.wikipedia.org/wiki/Gaia>
+		- Speaking in Dactylic hexameter <https://en.wikipedia.org/wiki/Dactylic_hexameter>
+			- Later in Prose <https://en.wikipedia.org/wiki/Prose>
 		- "The rift of the Gulf of Corinth is one of the most geologically active sites on Earth"
-- Python https://en.m.wikipedia.org/wiki/Python_(mythology)
+- Python <https://en.m.wikipedia.org/wiki/Python_(mythology)>
 	- Artemis
 - Arcadian (system) 
 
 
-## 1. Is she Princess Astrophel?: https://en.wikipedia.org/wiki/Mary_Sidney
+## 1. Is she Princess Astrophel? 
+Mary Sidney <https://en.wikipedia.org/wiki/Mary_Sidney>
 ## Notes
-https://www.gradesaver.com/astrophil-and-stella/study-guide/summary
+<https://www.gradesaver.com/astrophil-and-stella/study-guide/summary>
 	
 	preface, "the lovers' woe" = the kiss?
 	5, "yearning of our vagabond hearts" = "that on earth we are but pilgrims made, And should in soul up to our country move", sonnet 5?
 		earth or heart & soul? Cupid is also mentioned.
 	Sonnet 6, "While tears pour out his ink, and sighs breathe out his words" is considered to be whisper (whisperer).
-		See: https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-1-31
+		See: <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-1-31>
 	17, "Of stella's brows make him two better bows, ", brow
 	17, mother of Cupid = Venus
 		But how Venus be a reference to mother of galaxies?
@@ -65,7 +66,7 @@ https://www.gradesaver.com/astrophil-and-stella/study-guide/summary
 	28, "Princess of Beauty"
 	32, Asking Morpheus, "Whence hast thou ivory, rubies, pearl and gold", jewel. Morpheus is at Colonia, when was it named and by whom?
 	37, I just liked this one, tongue in cheek, "Toward Aurora's court a nymph doth dwell, ..."
-	46, Cupid being called a vagabond, "Alas poor wag, that now a scholar art". Ref https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-32-50
+	46, Cupid being called a vagabond, "Alas poor wag, that now a scholar art". Ref <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-32-50>
 	 "which would make Love nothing more than a homeless, despicable vagabond"
 	 "Astrophel and Love are no longer at odds with one another; they are comrades suffering from the same torments at Stella's hands"
 	51, Atlas
@@ -78,7 +79,7 @@ https://www.gradesaver.com/astrophil-and-stella/study-guide/summary
 	 in classical mythology, a spring of poetic inspiration on Mt. Helicon
 
 	Dian, Diana, the virgin goddess of the moon and of hunting, also a protector of women
-	 Ref Diana (Roman), Hecate and later Artemis-Hecate (https://en.wikipedia.org/wiki/Diana_%28mythology%29)
+	 Ref Diana (Roman), Hecate and later Artemis-Hecate (<https://en.wikipedia.org/wiki/Diana_%28mythology%29>)
 	 
 	Ganymede
 	 a mythological boy so beautiful that Jove fell in love with him. Jove made him his cup-bearer in the heavens.
@@ -100,8 +101,8 @@ https://www.gradesaver.com/astrophil-and-stella/study-guide/summary
 	 and boiled his son. Tantalus was punished (tantalized).
 	 
 ## Rhyme scheme
-https://www.gradesaver.com/astrophil-and-stella/study-guide/themes
+<https://www.gradesaver.com/astrophil-and-stella/study-guide/themes>
 > "Sidney also uses the rhyme scheme used by Petrarch in his poetry, abba abba cdc ece."
 "Sidney goes so far as to be creative even with the sonnet's rhyme scheme."
 
-More on rhyme: https://en.wikipedia.org/wiki/Petrarchan_sonnet
+More on rhyme: <https://en.wikipedia.org/wiki/Petrarchan_sonnet>
