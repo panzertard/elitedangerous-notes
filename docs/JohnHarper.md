@@ -46,7 +46,7 @@ And the final words:
 
 
 ## John Harper explains that some of his use of Raxxla had to be redacted.
-Ref: <https://youtu.be/44mHSAo5BGw?t=431>  
+Ref: <https://youtu.be/44mHSAo5BGw?t=480>  
 
 
 
