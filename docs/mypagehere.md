@@ -10,20 +10,25 @@
   {% endfor %}
 </ul>
 
-#### Sitemap 2
+#### Sitemap
 <ul>
   {% for page in site.pages %}
-    <div>PAGE.URL: "{{ page.url }}"</div>
-    <div>BASEURL+URL: "{{ site.baseurl }}{{ page.url }}"</div>
     <li>
       <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
-#### Assets
+#### Assets via HTML-scheme  
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
 <div>"{{ myimage.path }}"</div>
+<img src="{{ myimage.path }}" alt="avatar-no-baseurl" />
 <div>"{{ site.baseurl }}{{ myimage.path }}"</div>
-{% endfor %}
+<img src="{{ site.baseurl }}{{ myimage.path }}" alt="avatar-w-baseurl" />
+{% endfor %} 
+
+#### Assets via MD-scheme  
+![avatar-no-baseurl](/assets/panzertard-sf.jpg)  
+![avatar-w-baseurl](/elitedangerous-notes/assets/panzertard-sf.jpg)  
+
