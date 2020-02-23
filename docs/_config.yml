@@ -1,4 +1,4 @@
   
 theme: jekyll-theme-minimal
-permalink: pretty
+permalink: /elitedangerous-notes/:pretty
 
