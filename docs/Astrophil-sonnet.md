@@ -50,31 +50,35 @@ Apollo appears as `Phoebus`.
 
 ## 1. Is she Princess Astrophel? 
 Mary Sidney <https://en.wikipedia.org/wiki/Mary_Sidney>
-## Notes
+## 2. Notes
 <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary>
 	
-	preface, "the lovers' woe" = the kiss?
-	5, "yearning of our vagabond hearts" = "that on earth we are but pilgrims made, And should in soul up to our country move", sonnet 5?
-		earth or heart & soul? Cupid is also mentioned.
-	Sonnet 6, "While tears pour out his ink, and sighs breathe out his words" is considered to be whisper (whisperer).
-		See: <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-1-31>
-	17, "Of stella's brows make him two better bows, ", brow
-	17, mother of Cupid = Venus
-		But how Venus be a reference to mother of galaxies?
-	20, I just noticed again a reference "sweet black which veils the heav'nly eye" referring to "Stella's lovely, black eyes". Deepest void?
-	26, "two stars in Stella's face"
-	28, "Princess of Beauty"
-	32, Asking Morpheus, "Whence hast thou ivory, rubies, pearl and gold", jewel. Morpheus is at Colonia, when was it named and by whom?
-	37, I just liked this one, tongue in cheek, "Toward Aurora's court a nymph doth dwell, ..."
-	46, Cupid being called a vagabond, "Alas poor wag, that now a scholar art". Ref <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-32-50>
-	 "which would make Love nothing more than a homeless, despicable vagabond"
-	 "Astrophel and Love are no longer at odds with one another; they are comrades suffering from the same torments at Stella's hands"
-	51, Atlas
-	55, Nine muses, nine sisters.
-	57, Adressing Woe
-	72, "Venus is taught with Dian's wings to fly" Diana,Venus,..
+> preface, "the lovers' woe" = the kiss? I see no connection right now. 
+* 5, "yearning of our vagabond hearts" = "that on earth we are but pilgrims made, And should in soul up to our country move", sonnet 5?  
+earth or heart & soul? Cupid is also mentioned.
+- Sonnet 6, "While tears pour out his ink, and sighs breathe out his words" is considered to be whisper (whisperer).  
+	See: <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-1-31>
+- 17, "Of stella's brows make him two better bows, ", brow
+- 17, mother of Cupid = Venus
+	But how Venus be a reference to mother of galaxies?
+- 20, I just noticed again a reference "sweet black which veils the heav'nly eye" referring to "Stella's lovely, black eyes". Deepest void?
+- 26, "two stars in Stella's face"
+- 28, "Princess of Beauty"
+- 32, Asking Morpheus, "Whence hast thou ivory, rubies, pearl and gold", jewel. Morpheus is at Colonia, when was it named and by whom?
+- 37, I just liked this one, tongue in cheek, "Toward Aurora's court a nymph doth dwell, ..."
+- 46, Cupid being called a vagabond, "Alas poor wag, that now a scholar art".  
+Ref <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-32-50>
+	> "which would make Love nothing more than a homeless, despicable vagabond"  
 	
-### Terms https://www.gradesaver.com/astrophil-and-stella/study-guide/glossary-of-terms
+	> "Astrophel and Love are no longer at odds with one another; they are comrades suffering from the same torments at Stella's hands"
+- 51, Atlas
+- 55, Nine muses, nine sisters.
+- 57, Adressing Woe
+- 72, "Venus is taught with Dian's wings to fly" Diana,Venus,..
+	
+### Glossary of terms
+<https://www.gradesaver.com/astrophil-and-stella/study-guide/glossary-of-terms>
+
 	Aganippe
 	 in classical mythology, a spring of poetic inspiration on Mt. Helicon
 
