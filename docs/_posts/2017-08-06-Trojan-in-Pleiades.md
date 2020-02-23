@@ -9,10 +9,9 @@ The `Pleiades Sector LS-T c3-12 1` and `Pleiades Sector LS-T c3-12 2` is at a pe
 
 embedtesting 1  
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/GmutqiV"><a href="//imgur.com/a/GmutqiV">Trojan in Pleiades Sector LS-T c3-12</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZdeSpl2"><a href="//imgur.com/a/ZdeSpl2">A trojan - Pleiades Sector LS-T c3-12</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 embed testing 2  
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/GmutqiV" data-context="false"><a href="//imgur.com/a/GmutqiV">Trojan in Pleiades Sector LS-T c3-12</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZdeSpl2" data-context="false"><a href="//imgur.com/a/ZdeSpl2">Trojan in Pleiades Sector LS-T c3-12</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
