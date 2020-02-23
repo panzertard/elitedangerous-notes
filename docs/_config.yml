@@ -9,7 +9,8 @@ baseurl: /elitedangerous-notes
 collections:
   posts:
     output: true
-    permalink: /:categories/:year/:month/:day/:title:output_ext
+    #permalink: /:categories/:year/:month/:day/:title:output_ext
+    permalink: /:categories/:title:output_ext
 
 defaults:
   - scope:
