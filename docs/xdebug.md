@@ -12,9 +12,11 @@
 #### Sitemap
 <ul>
   {% for page in site.pages %}
+  {% if page.title != nil and page.title != "" %}
     <li>
-      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title | "No title" }}</a>
+      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
     </li>
+  {% endif %}
   {% endfor %}
 </ul>
 
