@@ -9,6 +9,8 @@ tags: [hot, summer]
 This is a post
 
 
-![avatar](/assets/panzertard-sf.jpg)  
-![avatar](/elitedangerous-notes/assets/panzertard-sf.jpg)  
+![avatar-wo-baseurl](/assets/panzertard-sf.jpg)  
+![avatar-w-hardcoded-baseurl](/elitedangerous-notes/assets/panzertard-sf.jpg)  
+![avatar-w-relative-updir](/../assets/panzertard-sf.jpg)  
+
 
