@@ -2,6 +2,8 @@
 Elite Dangerous is such a wast universe. There's many stories and references to ingame mysteries as well as real world mathematics, physics, litterature and mythology.  
 Maintaining notes TXT files could only get me so far, hence I decided to publish my notes as a searchable repository.
 
+Site: <https://panzertard.github.io/elitedangerous-notes/>
+
 ### Todo
 Make it searchable, mkay ...  
 
