@@ -8,4 +8,12 @@ The `Pleiades Sector LS-T c3-12 1` and `Pleiades Sector LS-T c3-12 2` is at a pe
 test-image via imgur:
 ![Hyades Sector PC-V b2-3 4](https://i.imgur.com/SQo4sNt.png)
 
+embedtesting 1  
+
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/GmutqiV"><a href="//imgur.com/a/GmutqiV">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+
+embed testing 2  
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/GmutqiV" data-context="false"><a href="//imgur.com/a/GmutqiV">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
