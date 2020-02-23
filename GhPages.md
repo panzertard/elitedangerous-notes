@@ -24,7 +24,25 @@ collections:
     output: true
     permalink: /elitedangerous-notes/:categories/:year/:month/:day/:title:output_ext
 ```
+```markdown
+    [John Harper : And here the Wheel](./EDLore-author-JohnHarper.md)
+```
 Result:
     POST.URL: "/elitedangerous-notes/blog/2020/02/02/testing-a-post.html"
     Page is unavailable at that url
+    
+    `https://panzertard.github.io/elitedangerous-notes/EDLore-author-JohnHarper.html`  
+    `[John Harper : And here the Wheel](./EDLore-author-JohnHarper.md)` works as expected.  
 
+## Test 2
+```yaml
+# so we need to set both of these for a project?
+#root: /elitedangerous-notes
+baseurl: /elitedangerous-notes
+#url: /elitedangerous-notes
+
+collections:
+  posts:
+    output: true
+    permalink: /elitedangerous-notes/:categories/:year/:month/:day/:title:output_ext
+```

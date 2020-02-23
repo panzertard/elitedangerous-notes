@@ -1,4 +1,4 @@
-# Index 2
+# Test at mypagehere.md
 
 #### for each post
 <ul>
@@ -16,7 +16,7 @@
     <div>PAGE.URL: "{{ page.url }}"</div>
     <div>BASEURL+URL: "{{ site.baseurl }}{{ page.url }}"</div>
     <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
+      <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>

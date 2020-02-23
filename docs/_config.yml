@@ -2,8 +2,8 @@
 theme: jekyll-theme-minimal
 
 # so we need to set both of these for a project?
-root: /elitedangerous-notes
-#baseurl: /elitedangerous-notes
+#root: /elitedangerous-notes
+baseurl: /elitedangerous-notes
 #url: /elitedangerous-notes
 
 collections:
