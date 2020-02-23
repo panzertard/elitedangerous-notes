@@ -24,26 +24,24 @@
 
 #### foreach using markdown
 {% for post in site.posts %}
-[{{ post.title }}]({{ post.url }})
+[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
 
 #### Sitemap
 <ul>
   {% for page in site.pages %}
-    <div>PAGE.URL: "{{ page.url }}"</div>
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>    
-    <div>BASEURL+URL: "{{ site.baseurl }}{{ page.url }}"</div>
     <li>
       <a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
-#### Assets
-{% assign image_files = site.static_files | where: "image", true %}
-{% for myimage in image_files %}
-<div>"{{ myimage.path }}"</div>
-<div>"{{ site.baseurl }}{{ myimage.path }}"</div>
-{% endfor %}
+#### Assets  
+{% assign image_files = site.static_files | where: "image", true %}  
+{% for myimage in image_files %}  
+<div>"{{ site.baseurl }}{{ myimage.path }}"</div>  
+{% endfor %}  
+
+![avatar](/assets/panzertard-sf.jpg)  
+![avatar](/elitedangerous-notes/assets/panzertard-sf.jpg)  
+

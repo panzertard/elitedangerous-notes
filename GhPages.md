@@ -3,41 +3,10 @@ It's a real problem getting Jekyll + Liquid to understand that all the URL's sho
 Almost all config variants results with MD-pages being generated at rootlevel (base url?).  
 So instead of getting "https://myuser.github.io/myproject/posts/mypost" relative links have been parsed and presented as "https://myuser.github.io/posts/mypost", missing the "myproject" directory.
 
-Sample `index.md`:  
-```javascript
-  {% for post in site.posts %}
-    <div>POST.URL: "{{ post.url }}"</div>
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-```
-## Test 1
-sample `_config.yml`:
+## _config.yml
+This variant should produce a working `posts` collection.  
 ```yaml
-root: /elitedangerous-notes
-#baseurl: /elitedangerous-notes
-#url: /elitedangerous-notes
-
-collections:
-  posts:
-    output: true
-    permalink: /elitedangerous-notes/:categories/:year/:month/:day/:title:output_ext
-```
-```markdown
-    [John Harper : And here the Wheel](./EDLore-author-JohnHarper.md)
-```
-Result:
-    POST.URL: "/elitedangerous-notes/blog/2020/02/02/testing-a-post.html"
-    Page is unavailable at that url
-
-At `index.md` the link is generated as:
-    `https://panzertard.github.io/elitedangerous-notes/EDLore-author-JohnHarper.html`  
-    `[John Harper : And here the Wheel](./EDLore-author-JohnHarper.md)` works as expected.  
-
-## Test 2
-```yaml
-# so we need to set both of these for a project?
+# the only varient that hosts the _posts collection is this
 #root: /elitedangerous-notes
 baseurl: /elitedangerous-notes
 #url: /elitedangerous-notes
@@ -45,5 +14,18 @@ baseurl: /elitedangerous-notes
 collections:
   posts:
     output: true
-    permalink: /elitedangerous-notes/:categories/:year/:month/:day/:title:output_ext
+    permalink: /:categories/:year/:month/:day/:title:output_ext
 ```
+
+### Note - annoyingly missing the projectpath
+If you use Markdown links the paths will be correctly pre-pended with the project name.  
+if you use Liquid directly and `{{ post.url }}`, the project pre-pend will be missing.  
+Instead use `{{ site.baseurl }}{{ post.url }}` access the project name.
+
+You can even do crazy stuff like this in your MD:
+```javascript
+{% for post in site.posts %}
+[{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+{% endfor %}
+```
+
