@@ -4,7 +4,7 @@ author_profile: true
 title: The Quest to solve mysteries
 ---
 
-# What is this thing, Elite Dangerous notes?
+## What is this thing, Elite Dangerous notes?
 [Elite Dangerous](https://forums.frontier.co.uk/categories/elite-dangerous/) is such a wast universe. There's many stories and references to ingame mysteries as well as real world mathematics, physics, litterature and mythology.  
 Maintaining notes TXT files could only get me so far, hence I decided to publish my notes as a searchable repository.
 
