@@ -1,19 +1,24 @@
   
 theme: jekyll-theme-minimal
 
-# so we need to set both of these for a project?
+# Setting baseurl seems to work best.
 #root: /elitedangerous-notes
 baseurl: /elitedangerous-notes
 #url: /elitedangerous-notes
 
+# Note, images can be relative if we only use one category.
+# Works with MD and relative paths. If multiple categories, relative paths will break.  
+# You have to make sure you have unique paths (names) for the Posts though.
 collections:
   posts:
     output: true
     #permalink: /:categories/:year/:month/:day/:title:output_ext
     permalink: /:categories/:title:output_ext
 
+# Classify where images are
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
+      
