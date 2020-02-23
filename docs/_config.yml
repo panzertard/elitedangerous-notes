@@ -4,5 +4,5 @@ theme: jekyll-theme-minimal
 collections:
   posts:
     output: true
-    permalink: /:path/:collection/:name
+    permalink: /elitedangerous-notes/:collection/:name
     

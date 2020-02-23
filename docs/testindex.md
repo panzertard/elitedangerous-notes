@@ -3,6 +3,9 @@
 #### for each post
 <ul>
   {% for post in site.posts %}
+  <li>
+    <div>"{{ post.url }}"</div>
+  </li>
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
@@ -24,6 +27,9 @@
   <h3>{{ category[0] }}</h3>
   <ul>
     {% for post in category[1] %}
+  <li>
+    <div>"{{ post.url }}"</div>
+  </li>
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>

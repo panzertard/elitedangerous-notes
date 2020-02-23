@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Test too"
+title:  "Test too 2"
 ---
 
 # Test
 This is a post
 
-![avatar](/assets/panzertard-sf.jpg)
+![avatar](./assets/panzertard-sf.jpg)
 

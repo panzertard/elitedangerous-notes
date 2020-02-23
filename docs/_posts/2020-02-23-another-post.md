@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Test page 2"
+title:  "Test page 3"
 categories: [blog, travel]
 tags: [hot, summer]
 ---

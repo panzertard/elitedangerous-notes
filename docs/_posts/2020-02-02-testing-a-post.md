@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Testpage 1"
-categories: [blog, travel]
+categories: [blog]
 tags: [hot, summer]
 ---
 # Test
