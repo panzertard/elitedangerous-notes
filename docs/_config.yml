@@ -6,16 +6,13 @@ root: /elitedangerous-notes
 #baseurl: /elitedangerous-notes
 #url: /elitedangerous-notes
 
-#permalink: /mycoolwebsite/:categories/:title/
+collections:
+  posts:
+    output: true
+    permalink: /elitedangerous-notes/:categories/:year/:month/:day/:title:output_ext
 
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
-      
-collections:
-  posts:
-    output: true
-    permalink: /elitedangerous-notes/:categories/:year/:month/:day/:title:output_ext
-

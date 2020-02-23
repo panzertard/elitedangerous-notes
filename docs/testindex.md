@@ -1,50 +1,20 @@
-# Index 14
+# Index 2
 
 #### for each post
 <ul>
   {% for post in site.posts %}
-  <li>
-    <div>"{{ post.url }}"</div>
-  </li>
+    <div>POST.URL: "{{ post.url }}"</div>
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
 
-
-#### Using page instead of posts
-<ul>
-  {% for page in page.posts %}
-    <li>
-      <a href="{{ page.url }}">{{ page.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-#### As sub category
-{% for category in site.categories %}
-  <h3>{{ category[0] }}</h3>
-  <ul>
-    {% for post in category[1] %}
-  <li>
-    <div>"{{ post.url }}"</div>
-  </li>
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
-
-
 #### Sitemap 2
 <ul>
   {% for page in site.pages %}
-  <li>
-    <div>URL "{{ page.url }}"</div>
-  </li>
-  <li>
-    <div>BASEURL, URL "{{ site.baseurl }}{{ page.url }}"</div>
-  </li>  
+    <div>PAGE.URL: "{{ page.url }}"</div>
+    <div>BASEURL+URL: "{{ site.baseurl }}{{ page.url }}"</div>
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
@@ -55,4 +25,5 @@
 {% assign image_files = site.static_files | where: "image", true %}
 {% for myimage in image_files %}
 <div>"{{ myimage.path }}"</div>
+<div>"{{ site.baseurl }}{{ myimage.path }}"</div>
 {% endfor %}
