@@ -8,8 +8,6 @@
 ### Authors and lore
 * [John Harper : And here the Wheel](./EDLore-author-JohnHarper.md)
 
-
-
 ##### debug
 [Debugging MarkDown issues](xdebug)
 
