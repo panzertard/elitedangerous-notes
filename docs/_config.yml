@@ -1,6 +1,8 @@
   
 theme: jekyll-theme-minimal
-#baseurl: /elitedangerous-notes
+
+# so we need to set both of these for a project?
+baseurl: /elitedangerous-notes
 root: /elitedangerous-notes
 
 defaults:
