@@ -48,3 +48,4 @@
 ![avatar-no-baseurl](/assets/panzertard-sf.jpg)  
 ![avatar-w-baseurl](/elitedangerous-notes/assets/panzertard-sf.jpg)  
 
+![avatar-w-relative-updir](/../assets/panzertard-sf.jpg)  

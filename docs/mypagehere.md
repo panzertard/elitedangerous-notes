@@ -3,9 +3,8 @@
 #### for each post
 <ul>
   {% for post in site.posts %}
-    <div>POST.URL: "{{ post.url }}"</div>
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -31,4 +30,4 @@
 #### Assets via MD-scheme  
 ![avatar-no-baseurl](/assets/panzertard-sf.jpg)  
 ![avatar-w-baseurl](/elitedangerous-notes/assets/panzertard-sf.jpg)  
-
+![avatar-w-relative-updir](/../assets/panzertard-sf.jpg)  
