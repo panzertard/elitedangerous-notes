@@ -1,4 +1,8 @@
   
 theme: jekyll-theme-minimal
-permalink: /elitedangerous-notes/:pretty
 
+collections:
+  posts:
+    output: true
+    permalink: /elitedangerous-notes/:categories/:year/:month/:day/:title:output_ext
+    
