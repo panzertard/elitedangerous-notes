@@ -1,4 +1,4 @@
-# Index 2
+# Index 3
 
 #### for each post
 <ul>
@@ -15,7 +15,7 @@
 
 #### Using page instead of posts
 <ul>
-  {% for post in page.posts %}
+  {% for page in page.posts %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </li>

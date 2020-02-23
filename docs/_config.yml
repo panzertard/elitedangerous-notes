@@ -1,8 +1,4 @@
   
 theme: jekyll-theme-minimal
+permalink: pretty
 
-collections:
-  posts:
-    output: true
-    permalink: pretty
-    
