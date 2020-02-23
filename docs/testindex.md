@@ -12,7 +12,7 @@
 
 #### Using page instead of posts
 <ul>
-  {% for post in site.posts %}
+  {% for post in page.posts %}
     <li>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </li>
