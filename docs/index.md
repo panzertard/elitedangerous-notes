@@ -20,7 +20,7 @@ Maintaining notes TXT files could only get me so far, hence I decided to publish
 * [Drew Wagar : Answering Lore questions](https://forums.frontier.co.uk/threads/lore-questions.459433/)  
 
 # More things to solve
-* Inspect Jameson crashed ship logs and Lori Jameson base with SRV.  
+* Inspect Jameson crashed ship logs and Lori [Jameson](./_notes/Jameson.md) base with SRV.  
 
 
 # General references
