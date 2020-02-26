@@ -39,7 +39,7 @@ defaults:
       type: "systems"
     values:
       layout: "systems"
-    - scope:
+  - scope:
       path: ""
       type: "notes"
     values:
