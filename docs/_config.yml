@@ -8,6 +8,8 @@ description: My notes and reflections on some of the mysteries in Elite Dangerou
 baseurl: /elitedangerous-notes
 #url: /elitedangerous-notes
 
+author: Panzertard
+
 # Note, images can be relative if we only use one category.
 # Works with MD and relative paths. If multiple categories, relative paths will break.  
 # You have to make sure you have unique paths (names) for the Posts though.
@@ -17,6 +19,10 @@ collections:
     #permalink: /:categories/:year/:month/:day/:title:output_ext
     permalink: /:categories/:title:output_ext
 
+  systems:
+    output: true
+    permalink: /:categories/:title
+    
 # Classify where images are
 defaults:
   - scope:
