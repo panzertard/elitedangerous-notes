@@ -76,7 +76,6 @@ earth or heart & soul? Cupid is also mentioned.
 Ref <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-32-50>  
 	"which would make Love nothing more than a homeless, despicable vagabond"  
 	"Astrophel and Love are no longer at odds with one another; they are comrades suffering from the same torments at Stella's hands"  
-	
 - 51, Atlas
 - 55, Nine muses, nine sisters.
 - 57, Adressing Woe
