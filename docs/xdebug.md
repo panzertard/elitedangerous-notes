@@ -9,6 +9,15 @@
   {% endfor %}
 </ul>
 
+#### for each system
+<ul>
+  {% for sys in site.systems %}
+    <li>
+      <a href="{{ site.baseurl }}{{ sys.url }}">{{ sys.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 #### Sitemap
 <ul>
   {% for page in site.pages %}
