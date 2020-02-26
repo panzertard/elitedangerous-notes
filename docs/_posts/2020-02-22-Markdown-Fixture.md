@@ -11,30 +11,6 @@
 
 <img src="image.png" width="182" align="right">
 
-### Octigons
-For reference please see: https://octicons.github.com/  
-Apparently not working in VS IDE preview.  
-
-<!-- svg rails helper, deprecated -->
-<div>
-<%= octicon "bell" %>
-</div>
-
-<!-- svg jekyll helper, deprecated -->
-<div>
-{% octicon bell %}
-</div>
-
-<!-- latest version https://github.blog/2016-02-22-delivering-octicons-with-svg/ -->
-<div>
-<%= octicon(:symbol => "plus") %>
-</div>
-
----
-
-Borrowed from https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
----
 
 This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
 
