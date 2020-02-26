@@ -6,7 +6,7 @@ tags: lore,jameson
 
 ## Lori Jameson
 Need to look a bit more into if there's something more regarding the death of James and if Lori has some information near the base.  
-Engineers may have their own 'hidden factions', hence their own ships.  
+Engineers may have their own '[hidden factions](https://eddb.io/faction/75300)', hence their own ships.  
 * Perhaps do a bit of manifest scanning?
 * Check out the Lori Jameson base in SRV.  
 
