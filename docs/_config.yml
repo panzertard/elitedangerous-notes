@@ -23,7 +23,9 @@ collections:
   systems:
     output: true
     permalink: /:categories/:title
-    
+  notes:
+    output: true
+    permalink: /:categories/:title
 # Classify where images are and other defaults
 defaults:
   - scope:
@@ -35,4 +37,8 @@ defaults:
       type: "systems"
     values:
       layout: "systems"
-      
+    - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "default"

@@ -1,4 +1,4 @@
-# Test at mypagehere.md
+# Testpage
 
 #### for each post
 <ul>
@@ -14,6 +14,15 @@
   {% for sys in site.systems %}
     <li>
       <a href="{{ site.baseurl }}{{ sys.url }}">{{ sys.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+#### for each note
+<ul>
+  {% for note in site.notes %}
+    <li>
+      <a href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
   {% endfor %}
 </ul>
