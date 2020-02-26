@@ -1,6 +1,7 @@
 ---
 category: system
 tags: satellite,shinrarta,whistler,installation,satellite,fsdboost50
+date: 2020-02-26
 ---
 
 ## White Dwarf DC1 VII
@@ -18,11 +19,15 @@ To | Distance LY
 Shinrarta Dezhra | 19.10
 Sol | 48.20
 
-#### Timestamps checked  
+
+#### Satellit Timestamps checked  
+Nope, nothing here.  
 
 Time | Status
 --- | ---
+00:00 | Nothing
+00:10 | Nothing
+00:20 | Nothing
 00:30 | Nothing
 00:40 | Nothing
-00:50 | 
-00:00 | Nothing
+00:50 | Nothing
