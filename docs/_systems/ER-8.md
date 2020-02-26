@@ -1,6 +1,6 @@
 ---
 category: system
-tags: satellite,shinrarta,whistler,installation,satellite,fsdboost50
+tags: satellite,shinrarta,whistler,installation,fsdboost50
 date: 2020-02-26
 ---
 
