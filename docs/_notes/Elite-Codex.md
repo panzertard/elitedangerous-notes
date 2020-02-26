@@ -10,7 +10,7 @@ tags: raxxla,tdw,lore
 <https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/>
 
 # RAXXLA
-![raxxla-banner](./assets/img/raxxla-banner.png)
+![raxxla-banner](../assets/img/raxxla-banner.png)
 
 > "To the jewel that burns on the brow of the mother of galaxies! To the whisperer in witch-
 space, the siren of the deepest void! The parent's grief, the lover's woe, and the yearning of
@@ -58,7 +58,7 @@ Whatever the truth of the matter, one thing remains irrefutable: the legend of R
 continues to inspire explorers and conspiracy theorists to this day.
 
 # THE DARK WHEEL
-![tdw-banner](./assets/img/tdw-banner.png)
+![tdw-banner](../assets/img/tdw-banner.png)
 
 > "Oh, they're out there alright. I've never met them, but I know they're oout there. Think about
 how well known the stories are. Now think about how easy it would be for some two-bit
