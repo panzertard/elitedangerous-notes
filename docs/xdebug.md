@@ -1,6 +1,6 @@
 # Testpage
 
-#### for each post
+#### Posts
 <ul>
   {% for post in site.posts %}
     <li>
@@ -9,7 +9,7 @@
   {% endfor %}
 </ul>
 
-#### for each system
+#### Systems
 <ul>
   {% for sys in site.systems %}
     <li>
@@ -18,7 +18,7 @@
   {% endfor %}
 </ul>
 
-#### for each note
+#### Notes
 <ul>
   {% for note in site.notes %}
     <li>

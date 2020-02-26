@@ -23,9 +23,11 @@ collections:
   systems:
     output: true
     permalink: /:categories/:title
+    
   notes:
     output: true
     permalink: /:categories/:title
+    
 # Classify where images are and other defaults
 defaults:
   - scope:

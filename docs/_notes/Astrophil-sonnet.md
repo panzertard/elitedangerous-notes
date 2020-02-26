@@ -1,3 +1,7 @@
+---
+date: 2015-04-28
+---
+
 # Astrophil, the sonnet and Princess Astrophile
 ### Raxxla Verse reference
 > "To the jewel that burns on the brow of the mother of galaxies!  

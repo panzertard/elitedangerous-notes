@@ -1,3 +1,7 @@
+---
+date: 2015-04-28
+---
+
 # Notes - John Harper's blogs on "And Here the Wheel"
 Note: Emphasis are mine.
 

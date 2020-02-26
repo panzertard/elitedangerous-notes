@@ -1,3 +1,7 @@
+---
+date: 2015-04-28
+---
+
 # Codex summary
 
 > From the _The Quest To Find Raxxla_ first page : 
