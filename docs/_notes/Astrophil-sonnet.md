@@ -1,5 +1,7 @@
 ---
 date: 2015-04-28
+category: notes
+tags: satellite,shinrarta,whistler,installation,satellite,fsdboost50
 ---
 
 # Astrophil, the sonnet and Princess Astrophile
