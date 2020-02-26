@@ -19,10 +19,10 @@ Maintaining notes TXT files could only get me so far, hence I decided to publish
 # Tinfoil Subject list
 ### Princess Astrophel and Spiralling Stars
 * [Wikipedia: Astrophile and Stella](https://en.wikipedia.org/wiki/Astrophel_and_Stella)
-* [Astrophile and Stella sonnet notes1](./_notes/Astrophil-sonnet.md)
+* [Notes: Astrophile and Stella sonnet](./_notes/Astrophil-sonnet.md)
 
 ### Authors on the topic of Lore
-* [Notes: John Harper : And here the Wheel](./_notes//John-Harper.md)
+* [Notes: John Harper : And here the Wheel](./_notes/John-Harper.md)
 * [Drew Wagar : Answering Lore questions](https://forums.frontier.co.uk/threads/lore-questions.459433/)  
 
 

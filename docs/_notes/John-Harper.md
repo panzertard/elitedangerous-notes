@@ -1,5 +1,7 @@
 ---
 date: 2015-04-28
+category: notes
+tags: authors,lore,raxxla,tdw
 ---
 
 # Notes - John Harper's blogs on "And Here the Wheel"

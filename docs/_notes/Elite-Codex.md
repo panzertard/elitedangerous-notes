@@ -1,5 +1,7 @@
 ---
 date: 2015-04-28
+category: notes
+tags: raxxla,tdw,lore
 ---
 
 # Elite Codex summary
