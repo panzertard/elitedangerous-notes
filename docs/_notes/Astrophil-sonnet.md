@@ -73,9 +73,8 @@ earth or heart & soul? Cupid is also mentioned.
 - 32, Asking Morpheus, "Whence hast thou ivory, rubies, pearl and gold", jewel. Morpheus is at Colonia, when was it named and by whom?
 - 37, I just liked this one, tongue in cheek, "Toward Aurora's court a nymph doth dwell, ..."
 - 46, Cupid being called a vagabond, "Alas poor wag, that now a scholar art".  
-Ref <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-32-50>
+Ref <https://www.gradesaver.com/astrophil-and-stella/study-guide/summary-sonnets-32-50>  
 	"which would make Love nothing more than a homeless, despicable vagabond"  
-	
 	"Astrophel and Love are no longer at odds with one another; they are comrades suffering from the same torments at Stella's hands"  
 	
 - 51, Atlas
