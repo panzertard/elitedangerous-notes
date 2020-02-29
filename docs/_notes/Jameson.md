@@ -15,3 +15,8 @@ Engineers may have their own '[hidden factions](https://eddb.io/faction/75300)',
 </blockquote>
 <script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+
+## Commander John Jameson Logs
+`HIP 12099, 1 b, -54.3, -050.3`
+1 a human POI Stack (INRA base)
+1 b other
