@@ -1,4 +1,8 @@
-
+---
+date: 2020-02-27
+category: notes
+tags: andromeda,princess,grief
+---
 
 ![Constellation Andromeda](https://upload.wikimedia.org/wikipedia/commons/3/36/Andromeda_annotated.png)  
 
@@ -41,7 +45,7 @@ Rather see: [https://en.wikipedia.org/wiki/Cepheus_(father_of_Andromeda)](https:
 tags: cetus, hades, underworld  
 
 
-## Consetallation
+## Constellation
 > Alpha Andromedae (α Andromedae, abbreviated Alpha And or α And), officially named Alpheratz  
 ... it is actually a binary system composed of two stars in close orbit.  
 It is also known as one of the "Three Guides" that mark the prime meridian of the heavens, the other two being [Beta Cassiopeiae](https://en.wikipedia.org/wiki/Beta_Cassiopeiae) and [Gamma Pegasi](https://en.wikipedia.org/wiki/Gamma_Pegasi). It was believed to bless those born under its influence with honour and riches.
