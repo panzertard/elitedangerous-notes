@@ -157,8 +157,10 @@ Ref for the rest (too tired): <https://en.wikipedia.org/wiki/Ancient_Greek_astro
 
 ---
 
-## Sizable references
+## Sizable references  
+
 These systems can be visited in Elite.  
+
 Name | Sol LY | Kind | Notes
 ---  | ---  | ---    | ---
 [Arcas](https://eddb.io/system/bodies/1236) | 36.71 | planet | 
