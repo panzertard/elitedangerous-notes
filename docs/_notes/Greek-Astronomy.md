@@ -1,7 +1,7 @@
 ---
 date: 2020-03-12
 category: notes
-tags: sirens,creation
+tags: sirens,creation,sirius,andromeda,greek
 ---
 
 ## Interpretation of instructions
@@ -168,7 +168,7 @@ Name | Sol LY | Kind | Notes
 [Moirai](https://eddb.io/system/13776) | 57.94 | system  
 [Gilgamesh](https://eddb.io/system/5215) | 68.33 | system
 [Fates](https://eddb.io/system/4753) | 85.27 | system  
-[Almagest](https://eddb.io/system/24460) | 386.24 | system | You need to follow the Sirius-expansion. See below.  
+[Almagest](https://eddb.io/system/24460) | 386.24 | system | You need to follow the [Sirius-expansion](Sirius-Colonisation). See below.  
 [Ptolemy](https://eddb.io/system/439212) | 1,324.68 | system | same region as Aristarchus and Hipparchus system.  
 [Aristarchus](https://eddb.io/system/441306) | 1,344.63 | system | same region as Hipparchus and Ptolemy system  
 [Hipparchus](https://eddb.io/system/441324) | 1,347.19 | system | same region as Aristarchus system.  

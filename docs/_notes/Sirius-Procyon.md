@@ -1,16 +1,20 @@
 ---
 date: 2020-03-09
 category: notes
-tags: creationmyth
+tags: creationmyth,procyon,sirius,marduk,dog,companion
 ---
 
 # The dog stars
 
-The name [Procyon](https://en.wikipedia.org/wiki/Procyon) comes from the Ancient Greek Προκύων (Prokyon), meaning "before the dog", since it precedes the "Dog Star" [Sirius](https://en.wikipedia.org/wiki/Sirius) as it travels across the sky due to Earth's rotation.  
+These notes were partially created because I found a creation myth connected to the dog stars. There are **no leads** in this rabbit-hole.  
+
+Reference: <https://en.wikipedia.org/wiki/Procyon>
+
+> The name [Procyon](https://en.wikipedia.org/wiki/Procyon) comes from the Ancient Greek Προκύων (Prokyon), meaning "before the dog", since it precedes the "Dog Star" [Sirius](https://en.wikipedia.org/wiki/Sirius) as it travels across the sky due to Earth's rotation.  
 (_Although Procyon has a greater right ascension_, it also has a more northerly declination, which means it will rise above the horizon earlier than Sirius from most northerly latitudes.) In Greek mythology, Procyon is associated with Maera, a hound belonging to Erigone, daughter of Icarius of Athens.  
 
 ---
-### Marduk
+### Marduk - creation mythology
 > The two dog stars are referred to in the most ancient literature and were venerated by the Babylonians and the Egyptians, In Babylonian mythology, Procyon was known as Nangar (the Carpenter), an aspect of **[Marduk](https://en.wikipedia.org/wiki/Marduk)**, involved in constructing and organising the celestial sky. [[34](https://books.google.no/books?id=ILBuYcGASxcC&pg=PA217&redir_esc=y#v=onepage&q&f=false)]
 
 The name Marduk was probably pronounced Marutuk.[3] The etymology of the name Marduk is conjectured as derived from **amar-Utu** ("immortal son of Utu" or "bull calf of the sun god Utu").[2] The origin of Marduk's name may reflect an earlier genealogy, or have had cultural ties to the ancient city of **Sippar** (whose god was Utu), dating to the third millennium BC.[4]
@@ -40,4 +44,5 @@ Marduk is Umunpauddu at it's appearance; when it has risen for two (or four?) ho
 ...  
 
 ##### Marduk in Empire of Man
-<https://en.wikipedia.org/wiki/Empire_of_Man>
+For lols ...  
+<https://en.wikipedia.org/wiki/Empire_of_Man>  
