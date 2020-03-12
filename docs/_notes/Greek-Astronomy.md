@@ -5,28 +5,31 @@ tags: sirens,creation
 ---
 
 ## Interpretation of instructions
-**Part 1** - Instructions on how to interpret as well as rough location. 
+**Part 1** - Instructions on how to interpret as well as rough location.  
 Assumption: Andromeda  
 > "To the jewel that burns on the brow of the mother of galaxies!  
 
-Andromeda, again, which is **Classical Greek Astronomy**. Further  
+Andromeda, again, which is **Classical Greek Astronomy**.  
 
 **Part 2** - What kind of mythology & pieces to follow, perhaps which system to look in :  
 > To the whisperer in witchspace, the siren of the deepest void!   
 
-Meaning Sirens(?) via the "Myth of Er", but is the link strong enough?  
+Meaning Sirens(?) via the "_Myth of Er_", but is the link strong enough?  
 I'm not so sure about this.  
 
 **Part 3** - Where in the system to go :  
 > The parent's grief, the lover's woe, and the yearning of our vagabond hearts. To Raxxla!"  
 
-### Possible references
+### Conjectures and possible references
 Part 1: Andromeda, Big Dipper, Ursa Major, Ursa Minor  
 Part 2: Sirens as depicted in the [Myth of Er](https://en.wikipedia.org/wiki/Myth_of_Er)  
 Part 3: 
 - Parent's grief: _________ TBD _______
 - Lover's woe: __________ TBD _______
 - Vagabond = Wanderer(?), which is a term in [classical Greek astronomy](https://en.wikipedia.org/wiki/Ancient_Greek_astronomy) which refer to **planets**.  
+
+Finally we need to figure out which model to use to predict where in the system the planet is.  
+If it is a planet that is...  
 
 --- 
 
