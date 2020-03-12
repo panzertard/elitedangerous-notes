@@ -28,6 +28,9 @@ Maintaining notes TXT files could only get me so far, hence I decided to publish
 * [Drew Wagar's lorebrary over at Canonn.science](https://canonn.science/game-lore/)  (yes, lorebrary is a new word now)
 * [Fandom, Raxxla](https://elite-dangerous.fandom.com/wiki/Raxxla)
 
+### Tools
+* [Star Atlas]( https://staratlas.com/) is an interactive map of the sky - a virtual, online planetarium. Awesome.  
+
 ##### debug
 [Debugging MarkDown issues](xdebug)
 
