@@ -5,9 +5,12 @@ title: The Quest to solve mysteries
 ---
 
 ## What is this thing, Elite Dangerous notes?
-[Elite Dangerous](https://forums.frontier.co.uk/categories/elite-dangerous/) is such a wast universe. There's many stories and references to ingame mysteries as well as real world mathematics, physics, litterature and mythology.  
-Maintaining notes TXT files could only get me so far, hence I decided to publish my notes as a searchable repository.
+[Elite Dangerous](https://forums.frontier.co.uk/categories/elite-dangerous/) is such a wast universe. There's many stories and references to ingame mysteries as well as real world mathematics, physics, litterature and mythology. Maintaining notes TXT files could only get me so far, hence I decided to publish my notes as a searchable repository.
 
+### Credit
+A big thanks to [Michael Brookes](https://forums.frontier.co.uk/members/michael-brookes.2/) of Frontier Development who was such a beacon and inspiration for us treasure hunters. I can  blame MB and the [great community](https://forums.frontier.co.uk/threads/alien-archeology-and-other-mysteries-thread-10-the-canonn.355713/) for developing such love and passion for these great mysteries.
+
+#### Disclaimer
 > Spelling & grammar isn't my strong side, hence, [Que](https://www.youtube.com/watch?v=edelWaQ1bng) [Sera](https://www.youtube.com/watch?v=Vbn7e-KM-NA), [Sera](https://www.youtube.com/watch?v=Wy89v5VaYKE)  
 
 # Tinfoil Subject list
