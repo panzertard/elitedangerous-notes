@@ -48,4 +48,8 @@ Almagest | 386.24 | | |  Eng->Maori->Eng `Almagest`->`Tino Aroha`->`Really Love`
 Robigo | 436.81 | | |  | Hauser's Reach  
 Ceos | 486.64 | | |  | Brunel Hub, New Dawn, Babbage Gateway  
 Sothis | 494.49 | | |  | Velinski Enterprise, Newholm Station, Don's Inheritance, Sothis Mining, **Vantage Point**
-Wredquia SX-L d7-92 | 501.92 | | | | n
+Wredquia SX-L d7-92 | 501.92 | | | | Was never renamed or used by Sirius? Need to visit.
+
+> space
+
+---

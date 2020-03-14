@@ -9,3 +9,4 @@ The `Pleiades Sector LS-T c3-12 1` and `Pleiades Sector LS-T c3-12 2` is at a pe
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/ZdeSpl2" data-context="false"><a href="//imgur.com/a/ZdeSpl2">Trojan in Pleiades Sector LS-T c3-12</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+More about Trojans from the forum: <https://forums.frontier.co.uk/threads/hunt-for-trojans.369380/>  
