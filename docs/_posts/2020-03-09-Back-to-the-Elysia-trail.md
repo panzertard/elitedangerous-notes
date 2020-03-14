@@ -30,8 +30,10 @@ The ship flies quite oddly at **2c constantly** away from the star for about 4-5
 ![Joint Corporate System Installation](https://i.imgur.com/62FSeaB.png)
 
 ### Another loitering NPC
-Just as I was cruising again another unnamed ship of Type-7, piloted by `Trygg` behaved in the same manner. Flying at 1c in certain directions, slowing down and turning, then back to 1-2c constant speed. He was above and out of the shipping lanes when he was doing this.  
+Just as I was cruising again another unnamed ship of Type-7, piloted by `Trygg` behaved in the same manner. Flying at 1c in certain directions, slowing down and turning, then back to 1-2c constant speed. He was above and out of the shipping lanes when he was doing this. 
 I followed for 14-15 minutes, this time no interdiction occurred.  
+
+I suspect the NPC may try to reach a non-existing USS, it has non dedected that the USS have despawned. I'll keep an eye out for this later in the next systems.  
 
 #### Cosmic Corporate Network installation
 ![Cosmic Corporate Network installation](https://i.imgur.com/nrJXh63.png)  
