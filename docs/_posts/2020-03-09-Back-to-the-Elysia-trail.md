@@ -1,3 +1,7 @@
+---
+tags: lovecraft,plutarch,elysia
+---
+
 # Plutarch and the allegorical Plato
 A few articles made me realize I may have missed a few bits of knowledge. 
 As I was following material from [Myth Of Er](https://en.wikipedia.org/wiki/Myth_of_Er) passing by the [Allegorical interpretations of Plato](https://en.wikipedia.org/wiki/Allegorical_interpretations_of_Plato) and the different camps of allegorical interpretation.
@@ -17,3 +21,17 @@ System | Sol LY | Translation / meaning | Stations / notes
 [Tartarus](https://eddb.io/system/17469) | 132.49 | | ([In Elysium](https://en.wikipedia.org/wiki/Elysium)) Virgil describes those who will travel to [Elysium](https://en.wikipedia.org/wiki/Elysium), and those who will travel to [Tartarus](https://en.wikipedia.org/wiki/Tartarus)
 
 Time to go flying since I haven't visited neither Plutarch nor Tartarus yet. I have been to Elysia.  
+
+## Plutarch
+Arriving in **Plutarch**, the first ship I see is a anon Type-7 piloted by an NPC named [Azathoth](https://en.wikipedia.org/wiki/Azathoth). Lovecraft again.  
+The ship flies quite oddly at **2c constantly** away from the star for about 4-5 minutes. I have to throttle down to stay behind it. At this stage another NPV Vulture appears from nowhere and tries to interdict it. Azathoth wins the interdiction and now heads off in a random direction towards the planets. I did not follow it further.  
+
+#### Joint Corporate System Installation  
+![Joint Corporate System Installation](https://i.imgur.com/62FSeaB.png)
+
+### Another loitering NPC
+Just as I was cruising again another unamed ship of Type-7, piloted by `Trygg` behaved in the same manner. Flying at 1c in certain directions, slowing down and turning, then back to 1-2c constant speed. He was above and out of the shipping lanes when he was doing this.  
+I followed for 14-15 minutes, this time no interdiction occured.  
+
+#### Cosmic Corporate Network installation
+![Cosmic Corporate Network installation](https://i.imgur.com/nrJXh63.png)  
