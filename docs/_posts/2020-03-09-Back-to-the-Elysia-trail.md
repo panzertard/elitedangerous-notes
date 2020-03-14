@@ -8,7 +8,7 @@ However, nearby on of the articles a familiar reference emerged again.
 
 Now this is a path many has visited previously, but I wanted to see of something more obvious occurs this time. I know others have been active on this path of Elysia (Elyssia Fields), but I want to discover it my own way.
 
-From my [notes](/notes/Plato-Plutarch-Elysia):  
+From my [notes](./notes/Plato-Plutarch-Elysia):  
 
 System | Sol LY | Translation / meaning | Stations / notes
 ---    | :---:  | --                   | ---
