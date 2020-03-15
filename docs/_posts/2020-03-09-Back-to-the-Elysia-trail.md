@@ -37,3 +37,20 @@ Possibly a bug. I suspect the NPC may try to reach a non-existing USS, it has no
 
 #### Cosmic Corporate Network installation
 ![Cosmic Corporate Network installation](https://i.imgur.com/nrJXh63.png)  
+
+## Tartarus
+Unremarkable quiet and dull.  
+
+## Nysa
+`Spirit` Python this time (Shields of Justice) show up on jump-in. We know about this variant, however it seems to be quite easy to trigger Spirit this system. Flies towards `C`. Who knows, there may be something more behind this event. Have to investigate more later again.  
+Note, some factions are at war.
+<https://en.wikipedia.org/wiki/Nysa_(mythology)>
+<https://en.wikipedia.org/wiki/Nysa>
+<https://en.wikipedia.org/wiki/Nysiads>
+<https://en.wikipedia.org/wiki/Dionysus> connected to the Eleusinian mysteries.  
+
+Flew to Midwinter Base before turning around and flying to deep space.  
+
+
+### Elysia
+todo

@@ -9,6 +9,8 @@ tags: raxxla,tdw,lore
 > From the _The Quest To Find Raxxla_ first page : 
 <https://forums.frontier.co.uk/threads/the-quest-to-find-raxxla.168253/>
 
+**Note**: The codex was introduced with the Beyond release **Oct/Nov 2018**.  
+
 # RAXXLA
 ![raxxla-banner](../assets/img/raxxla-banner.png)
 
