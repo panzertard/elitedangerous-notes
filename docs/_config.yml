@@ -1,5 +1,5 @@
-  
-theme: jekyll-theme-minimal
+
+theme: jekyll-theme-midnight
 title: I blame Michael Brookes
 description: My notes and reflections on some of the mysteries in Elite Dangerous
 
@@ -10,9 +10,9 @@ baseurl: /elitedangerous-notes
 
 author:
   name: Panzertard
-  
+
 # Note, images can be relative if we only use one category.
-# Works with MD and relative paths. If multiple categories, relative paths will break.  
+# Works with MD and relative paths. If multiple categories, relative paths will break.
 # You have to make sure you have unique paths (names) for the Posts though.
 collections:
   posts:
@@ -23,11 +23,11 @@ collections:
   systems:
     output: true
     permalink: /:categories/:title
-    
+
   notes:
     output: true
     permalink: /:categories/:title
-    
+
 # Classify where images are and other defaults
 defaults:
   - scope:
