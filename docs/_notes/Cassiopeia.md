@@ -23,10 +23,11 @@ Eta Cassiopeiae
 #### (I shall not forget to check Danu)
 * Note, I've now done so and I didn't find anything remarkable.
 
----
+---  
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="MiMPdnz"><a href="//imgur.com/MiMPdnz">ED, Sol : Cassiopeiae Constellation</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="MiMPdnz"><a href="//imgur.com/MiMPdnz">ED, Sol : Cassiopeiae Constellation</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>  
 
+---  
 
 Chk  | Designation | Name        | ED Name       | Dist   | Notes |
 ---- | ------------| ----------- | ------------- | -------| -------------- |
@@ -55,6 +56,7 @@ no | φ | [Phi Cassiopeiae](https://en.wikipedia.org/wiki/Phi_Cassiopeiae) | `ph
 no | χ | [Chi Cassiopeiae](https://en.wikipedia.org/wiki/Chi_Cassiopeiae) | `chi Cassiopeiae` | 208.16 | G9 III Giant
 no | ψ | Psi ..... | 
 no | ω | [Omega Cassiopeiae](https://en.wikipedia.org/wiki/Omega_Cassiopeiae) |  `46 Omega Cassiopeiae` | | Omega Cassiopeiae (ω Cassiopeiae) is a binary star[2] system in the northern constellation of Cassiopeia.  
+
 
 Note: **Bold** text in the table simply means I need to check a bit more on that topic.
 
