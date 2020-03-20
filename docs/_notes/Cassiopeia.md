@@ -200,8 +200,8 @@ Poe was probably less interested in the Quran itself and more interested in an a
 
 > The Aeneid (/ɪˈniːɪd/ ih-NEE-id; Latin: Aeneis [ae̯ˈneːɪs]) is a Latin epic poem, written by Virgil between 29 and 19 BC,[1] that tells the legendary story of **Aeneas**, a **Trojan** who travelled to Italy, where he became the ancestor of the Romans. It comprises 9,896 lines in **dactylic hexameter**.  
 
-Note: You better understand why `dactylic hexameter` works.  
-Note: Check `Aeneas` system.  
+Note: You better understand how `dactylic hexameter` works.  
+Note: Check more about the `Aeneas` system.  
 Note: Don't forget `Trojan` and `Between` in the `Eta Cassiopeiae` system (the star, twins?). What the heck is this about?  
 
 
