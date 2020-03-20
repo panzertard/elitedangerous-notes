@@ -25,7 +25,7 @@ title: "Cassiopeia"
 
 ---  
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="MiMPdnz"><a href="//imgur.com/MiMPdnz">ED, Sol : Cassiopeiae Constellation</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>  
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/OmE8six"><a href="//imgur.com/a/OmE8six">ED : Cassiopeiae Constellation</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ---  
 
