@@ -54,7 +54,8 @@ no | υ2 (Castula) | [Upsilon2 Cassiopeiae](https://en.wikipedia.org/wiki/Upsilo
 no | φ | [Phi Cassiopeiae](https://en.wikipedia.org/wiki/Phi_Cassiopeiae) | `phi Cassiopeiae` | 6,653.01 | F0Ia Supergiant
 no | χ | [Chi Cassiopeiae](https://en.wikipedia.org/wiki/Chi_Cassiopeiae) | `chi Cassiopeiae` | 208.16 | G9 III Giant
 no | ψ | Psi ..... | 
-no | ω | [Omega Cassiopeiae](https://en.wikipedia.org/wiki/Omega_Cassiopeiae) |  `46 Omega Cassiopeiae` | | Omega Cassiopeiae (ω Cassiopeiae) is a binary star[2] system in the northern constellation of Cassiopeia.
+no | ω | [Omega Cassiopeiae](https://en.wikipedia.org/wiki/Omega_Cassiopeiae) |  `46 Omega Cassiopeiae` | | Omega Cassiopeiae (ω Cassiopeiae) is a binary star[2] system in the northern constellation of Cassiopeia.  
+
 Note: **Bold** text in the table simply means I need to check a bit more on that topic.
 
 
