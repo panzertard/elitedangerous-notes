@@ -269,6 +269,13 @@ section {
     }
 
   }
+
+  #box1 {
+    width:270px;
+    float:left;
+    position:fixed;
+    -webkit-font-smoothing:subpixel-antialiased;
+  }
 }
 
 @media print, screen and (max-width: 720px) {
