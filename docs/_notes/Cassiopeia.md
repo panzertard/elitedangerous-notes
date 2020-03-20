@@ -2,6 +2,7 @@
 date: 2020-03-14
 category: notes
 tags: andromeda,mother,cassiopeia,astrophil,princess
+title: "Cassiopeia"
 ---
 
 1. Cassiopeia (?)
