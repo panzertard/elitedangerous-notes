@@ -5,11 +5,10 @@ tags: andromeda,mother,cassiopeia,astrophil,princess
 title: "Cassiopeia"
 ---
 
+# Notes
 1. Cassiopeia (?)
 1. SN_1572?
 1. Carthage
-Carthage  
-Eta Cassiopeiae
 
 # Cassiopeia
 <https://en.wikipedia.org/wiki/Cassiopeia_%28constellation%29>  
