@@ -20,9 +20,12 @@ Eta Cassiopeiae
 
 > the Lapps, for whom the W of Cassiopeia forms an elk antler. The **Chukchi** (nomads) of Siberia similarly saw the five main stars as five reindeer stags
 
-#### I shall not forget to check Danu
+#### (I shall not forget to check Danu)
+* Note, I've now done so and I didn't find anything remarkable.
 
 ---
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="MiMPdnz"><a href="//imgur.com/MiMPdnz">ED, Sol : Cassiopeiae Constellation</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 Chk  | Designation | Name        | ED Name       | Dist   | Notes |
@@ -38,22 +41,21 @@ x | θ | [Theta Cassiopeiae](https://en.wikipedia.org/wiki/Theta_Cassiopeiae) | 
 x | ι | [Iota Cassiopeiae](https://en.wikipedia.org/wiki/Iota_Cassiopeiae) | `Iota Cassiopeiae` | 141.59 | Iota Cassiopeiae is known to be a **quintuple** star system. 
 x | κ | [Kappa Cassiopeiae](https://en.wikipedia.org/wiki/Kappa_Cassiopeiae) | `Kappa Cassiopeiae` | 4468.02 | It is a **runaway** star, moving at around 2.5 million mph relative to its neighbors. The dimensions of the bow shock are vast: around 12 light-years long and 1.8 light-years wide
 no | λ | [Lambda Cassiopeiae](https://en.wikipedia.org/wiki/Lambda_Cassiopeiae) | `14 Lambda Cassiopeiae` | 377.52 | Binary, B + Y
-x1 | μ | [Mu Cassiopeiae](https://en.wikipedia.org/wiki/Mu_Cassiopeiae) | `MU Cassiopeia` Capital MU and missing 'e' at the end | 39.87 | This system **shares** the name **Marfak** /ˈmɑːrfæk/ with **Theta Cassiopeiae**, and the name was from Al Marfik or Al Mirfaq (المرفق), meaning "the **elbow**". This star **will move** into the constellation Perseus around **5200** AD.[21]
+x1 | μ | [Mu Cassiopeiae](https://en.wikipedia.org/wiki/Mu_Cassiopeiae) | `Zeessze` | 24.64 | This system **shares** the name **Marfak** /ˈmɑːrfæk/ with **Theta Cassiopeiae**, and the name was from Al Marfik or Al Mirfaq (المرفق), meaning "the **elbow**". This star **will move** into the constellation Perseus around **5200** AD.[21]
 no | ν | [Nu Cassiopeiae](https://en.wikipedia.org/wiki/Nu_Cassiopeiae) | `25 Nu Cassiopeiae` | 411.84 | BIV Subgiant, AVab dwarf, GVab dwarf
 no | ξ | [Xi Cassiopeiae](https://en.wikipedia.org/wiki/Xi_Cassiopeiae) | `19 Xi Cassiopeiae` | 1430.57 | BV
 no | ο | [Omicron Cassiopeiae](https://en.wikipedia.org/wiki/Omicron_Cassiopeiae) | `22 Omicron Cassiopeiae` | 702.96 | (BV main seq). Omicron Cassiopeiae (ο Cas, ο Cassiopeiae) is (supposed to be) a triple star system
 no | π | [Pi Cassiopeiae](https://en.wikipedia.org/wiki/Pi_Cassiopeiae) | `20 Pi Cassiopeiae` | 175.09 | AV mainseq dwarf, supposed to be binary A5 V
-x5 | ρ | [Rho](https://en.wikipedia.org/wiki/Rho_Cassiopeiae) | `Rho Cassiopeiae` | 11,648.74 | (F8 I, B Vz). Supposed to be a HUUUGE single star. it can be seen by the naked eye as it is 500,000 times brighter than the Sun. **As a yellow hypergiant, it is one of the rarest types of stars**. Only around a dozen are known in the Milky Way, but it is not the only one in its constellation which also contains **V509 Cassiopeiae** (two more)
+x5 | ρ | [Rho Cassiopeiae](https://en.wikipedia.org/wiki/Rho_Cassiopeiae) | `Rho Cassiopeiae` | 11,648.74 | (F8 I, B Vz). Supposed to be a HUUUGE single star. it can be seen by the naked eye as it is 500,000 times brighter than the Sun. **As a yellow hypergiant, it is one of the rarest types of stars**. Only around a dozen are known in the Milky Way, but it is not the only one in its constellation which also contains **V509 Cassiopeiae** (two more)
 x9 | σ | [Sigma Cassiopeiae](https://en.wikipedia.org/wiki/Sigma_Cassiopeiae) | `8 Sigma Cassiopeiae` | 4,530.06 | (?? unknown). Supposed to be binary, 1500-5000 light-years from Earth. It's supposed to have a green-hued primary of magnitude 5.0 and a blue-hued secondary of magnitude 7.3
-no | τ | [Tau](https://en.wikipedia.org/wiki/Tau_Cassiopeiae) | ` 5 Tau Cassiopeiae`| 173.96 | (KIII giant)
+no | τ | [Tau Cassiopeiae](https://en.wikipedia.org/wiki/Tau_Cassiopeiae) | `5 Tau Cassiopeiae`| 173.96 | (KIII giant)
 no | υ1 | [Upsilon1 Cassiopeiae](https://en.wikipedia.org/wiki/Upsilon1_Cassiopeiae) | `26 Upsilon-1 Cassiopeiae` | 328.48 | (KIII giant,KVa main) Ups1+2 should be really close.
-no | υ2 (Castula) | Upsilon2 | 
-no | φ | [Phi Cassiopeiae](https://en.wikipedia.org/wiki/Phi_Cassiopeiae) | | 
-no | χ | Chi ....... | 
+no | υ2 (Castula) | [Upsilon2 Cassiopeiae](https://en.wikipedia.org/wiki/Upsilon2_Cassiopeiae) | `28 Upsilon-2 Cassiopeiae` | 199.87 | G8III Giant
+no | φ | [Phi Cassiopeiae](https://en.wikipedia.org/wiki/Phi_Cassiopeiae) | `phi Cassiopeiae` | 6,653.01 | F0Ia Supergiant
+no | χ | [Chi Cassiopeiae](https://en.wikipedia.org/wiki/Chi_Cassiopeiae) | `chi Cassiopeiae` | 208.16 | G9 III Giant
 no | ψ | Psi ..... | 
 no | ω | [Omega Cassiopeiae](https://en.wikipedia.org/wiki/Omega_Cassiopeiae) |  `46 Omega Cassiopeiae` | | Omega Cassiopeiae (ω Cassiopeiae) is a binary star[2] system in the northern constellation of Cassiopeia.
-
-
+Note: **Bold** text in the table simply means I need to check a bit more on that topic.
 
 
 [HR 8832](https://en.wikipedia.org/wiki/HR_8832) aka `LHS 71`  
