@@ -25,6 +25,8 @@ CEL 5756. Doesn't fit any known star catalog or naming scheme. Why?
 ## Travel list  
 
 <https://www.edsm.net/en/search/bodies/index/group/1/name/Cass/radius/5000/sortBy/distanceSol>  
+<https://www.edsm.net/en/search/bodies/index/group/1/name/Cass/radius/1000/sortBy/distanceCMDR/type/91>  
+<https://www.edsm.net/en/search/bodies/index/group/1/name/Cass/radius/1000/sortBy/distanceCMDR/type/92>  
 
 System | Dist | Notes
 -- | -- | --
