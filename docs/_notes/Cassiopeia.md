@@ -31,31 +31,31 @@ title: "Cassiopeia"
 
 Chk  | Designation | Name        | ED Name       | Dist   | Notes |
 ---- | ------------| ----------- | ------------- | -------| -------------- |
-no | α (Schedar) | [Alpha Cassiopeiae](https://en.wikipedia.org/wiki/Alpha_Cassiopeiae) |  `Schedar` | 228.26 | traditionally called Schedar (from the Arabic Al Sadr, "the breast"), is a four-star system.
+v | α (Schedar) | [Alpha Cassiopeiae](https://en.wikipedia.org/wiki/Alpha_Cassiopeiae) |  `Schedar` | 228.26 | traditionally called Schedar (from the Arabic Al Sadr, "the breast"), is a four-star system.
 no | β (Caph) | [Beta Cassiopeiae](https://en.wikipedia.org/wiki/Beta_Cassiopeiae) | `Caph` | 54.75 | (meaning "hand") Beta Cassiopeiae is the star's Bayer designation. It also bore the traditional names Caph (from the Arabic word كف kaf, "palm" - i.e. reaching from the Pleiades), Chaph and Kaff, as well as al-Sanam al-Nakah "the Camel's Hump"
 x | γ | [Gamma Cassiopeiae](https://en.wikipedia.org/wiki/Gamma_Cassiopeiae) | `27 Gamma Cassiopeiae` | 549.12 | (B0, Blackhole, Neutron) Gamma Cassiopeiae is the prototype of a small group of stellar sources of X-ray radiation that is about 10 times stronger than emitted from other B or Be stars. [Gamma Cassiopeiae variable star](https://en.wikipedia.org/wiki/Gamma_Cassiopeiae_variable) a type of variable star that has a variable disc of material flung off by the high rotation rate of the star.  
 no | δ (Ruchbah) | [Delta Cassiopeiae](https://en.wikipedia.org/wiki/Delta_Cassiopeiae) | `Ruchbah` | 99.43 | meaning "knee"
-no | ε (Segin) | [Epsilon Cassiopeiae](https://en.wikipedia.org/wiki/Epsilon_Cassiopeiae) | `Segin` | 411.85 | Epsilon Cassiopeiae (ε Cassiopeiae, abbreviated Eps Cas, ε Cas), officially named Segin. Segin, which probably originates from an erroneous transcription of Seginus, the traditional name for **Gamma Boötis**
+v | ε (Segin) | [Epsilon Cassiopeiae](https://en.wikipedia.org/wiki/Epsilon_Cassiopeiae) | `Segin` | 411.85 | Epsilon Cassiopeiae (ε Cassiopeiae, abbreviated Eps Cas, ε Cas), officially named Segin. Segin, which probably originates from an erroneous transcription of Seginus, the traditional name for **Gamma Boötis**
 x | ζ (Fulu) | [Zeta Cassiopeiae](https://en.wikipedia.org/wiki/Zeta_Cassiopeiae) | `Zeta Cassiopeiae` | 593.04 | In Chinese astronomy, Zeta Cassiopeiae is called 附路, Pinyin: Fùlù, meaning Auxiliary Road, because this star is marking itself and standing alone in the **Auxiliary Road** asterism, Legs (mansion) (see : Chinese constellation).[10] 附路 (Fùlù) was westernized into Foo Loo, but that name was also designated for Eta Cassiopeiae by R.H. Allen, with the meaning of **"a by-path"**
 no | η (Achird) | [Eta Cassiopeiae](https://en.wikipedia.org/wiki/Eta_Cassiopeiae) | `Eta Cassiopeiae` | 19.45 | Eta Cassiopeiae A (officially named Achird /ˈeɪtʃərd/, the traditional name for the system
 x | θ | [Theta Cassiopeiae](https://en.wikipedia.org/wiki/Theta_Cassiopeiae) | `33 Theta Cassiopeiae` | 133.58 | **It shares the traditional name Marfak** /ˈmɑːrfæk/ with μ Cassiopeiae to the southeast, which is derived from the Arabic term Al Marfik or Al Mirfaq (المرفق), meaning "the elbow"
 x | ι | [Iota Cassiopeiae](https://en.wikipedia.org/wiki/Iota_Cassiopeiae) | `Iota Cassiopeiae` | 141.59 | Iota Cassiopeiae is known to be a **quintuple** star system. 
 x | κ | [Kappa Cassiopeiae](https://en.wikipedia.org/wiki/Kappa_Cassiopeiae) | `Kappa Cassiopeiae` | 4468.02 | It is a **runaway** star, moving at around 2.5 million mph relative to its neighbors. The dimensions of the bow shock are vast: around 12 light-years long and 1.8 light-years wide
-no | λ | [Lambda Cassiopeiae](https://en.wikipedia.org/wiki/Lambda_Cassiopeiae) | `14 Lambda Cassiopeiae` | 377.52 | Binary, B + Y
+v | λ | [Lambda Cassiopeiae](https://en.wikipedia.org/wiki/Lambda_Cassiopeiae) | `14 Lambda Cassiopeiae` | 377.52 | Binary, B + Y
 x1 | μ | [Mu Cassiopeiae](https://en.wikipedia.org/wiki/Mu_Cassiopeiae) | `Zeessze` | 24.64 | This system **shares** the name **Marfak** /ˈmɑːrfæk/ with **Theta Cassiopeiae**, and the name was from Al Marfik or Al Mirfaq (المرفق), meaning "the **elbow**". This star **will move** into the constellation Perseus around **5200** AD.[21]
-no | ν | [Nu Cassiopeiae](https://en.wikipedia.org/wiki/Nu_Cassiopeiae) | `25 Nu Cassiopeiae` | 411.84 | BIV Subgiant, AVab dwarf, GVab dwarf
+v | ν | [Nu Cassiopeiae](https://en.wikipedia.org/wiki/Nu_Cassiopeiae) | `25 Nu Cassiopeiae` | 411.84 | BIV Subgiant, AVab dwarf, GVab dwarf
 no | ξ | [Xi Cassiopeiae](https://en.wikipedia.org/wiki/Xi_Cassiopeiae) | `19 Xi Cassiopeiae` | 1430.57 | BV
 no | ο | [Omicron Cassiopeiae](https://en.wikipedia.org/wiki/Omicron_Cassiopeiae) | `22 Omicron Cassiopeiae` | 702.96 | (BV main seq). Omicron Cassiopeiae (ο Cas, ο Cassiopeiae) is (supposed to be) a triple star system
-no | π | [Pi Cassiopeiae](https://en.wikipedia.org/wiki/Pi_Cassiopeiae) | `20 Pi Cassiopeiae` | 175.09 | AV mainseq dwarf, supposed to be binary A5 V
+v | π | [Pi Cassiopeiae](https://en.wikipedia.org/wiki/Pi_Cassiopeiae) | `20 Pi Cassiopeiae` | 175.09 | AV mainseq dwarf, supposed to be binary A5 V
 x5 | ρ | [Rho Cassiopeiae](https://en.wikipedia.org/wiki/Rho_Cassiopeiae) | `Rho Cassiopeiae` | 11,648.74 | (F8 I, B Vz). Supposed to be a HUUUGE single star. it can be seen by the naked eye as it is 500,000 times brighter than the Sun. **As a yellow hypergiant, it is one of the rarest types of stars**. Only around a dozen are known in the Milky Way, but it is not the only one in its constellation which also contains **V509 Cassiopeiae** (two more)
-x9 | σ | [Sigma Cassiopeiae](https://en.wikipedia.org/wiki/Sigma_Cassiopeiae) | `8 Sigma Cassiopeiae` | 4,530.06 | (?? unknown). Supposed to be binary, 1500-5000 light-years from Earth. It's supposed to have a green-hued primary of magnitude 5.0 and a blue-hued secondary of magnitude 7.3
+no | σ | [Sigma Cassiopeiae](https://en.wikipedia.org/wiki/Sigma_Cassiopeiae) | `8 Sigma Cassiopeiae` | 4,530.06 | (B2 IV, B3 V). It's supposed to have a green-hued primary of magnitude 5.0 and a blue-hued secondary of magnitude 7.3
 no | τ | [Tau Cassiopeiae](https://en.wikipedia.org/wiki/Tau_Cassiopeiae) | `5 Tau Cassiopeiae`| 173.96 | (KIII giant)
-no | υ1 | [Upsilon1 Cassiopeiae](https://en.wikipedia.org/wiki/Upsilon1_Cassiopeiae) | `26 Upsilon-1 Cassiopeiae` | 328.48 | (KIII giant,KVa main) Ups1+2 should be really close.
-no | υ2 (Castula) | [Upsilon2 Cassiopeiae](https://en.wikipedia.org/wiki/Upsilon2_Cassiopeiae) | `28 Upsilon-2 Cassiopeiae` | 199.87 | G8III Giant
+v | υ1 | [Upsilon1 Cassiopeiae](https://en.wikipedia.org/wiki/Upsilon1_Cassiopeiae) | `26 Upsilon-1 Cassiopeiae` | 328.48 | (KIII giant,KVa main)
+v | υ2 (Castula) | [Upsilon2 Cassiopeiae](https://en.wikipedia.org/wiki/Upsilon2_Cassiopeiae) | `28 Upsilon-2 Cassiopeiae` | 199.87 | G8III Giant
 no | φ | [Phi Cassiopeiae](https://en.wikipedia.org/wiki/Phi_Cassiopeiae) | `phi Cassiopeiae` | 6,653.01 | F0Ia Supergiant
-no | χ | [Chi Cassiopeiae](https://en.wikipedia.org/wiki/Chi_Cassiopeiae) | `chi Cassiopeiae` | 208.16 | G9 III Giant
-no | ψ | Psi ..... | 
-no | ω | [Omega Cassiopeiae](https://en.wikipedia.org/wiki/Omega_Cassiopeiae) |  `46 Omega Cassiopeiae` | | Omega Cassiopeiae (ω Cassiopeiae) is a binary star[2] system in the northern constellation of Cassiopeia.  
+v | χ | [Chi Cassiopeiae](https://en.wikipedia.org/wiki/Chi_Cassiopeiae) | `chi Cassiopeiae` | 208.16 | G9 III Giant
+v | ψ | [Psi Cassiopeiae](https://en.wikipedia.org/wiki/Psi_Cassiopeiae) | `36 Psi Cassiopeiae` | 195.11 | KIII Giant
+no | ω | [Omega Cassiopeiae](https://en.wikipedia.org/wiki/Omega_Cassiopeiae) | `46 Omega Cassiopeiae` | 701.46 | B7III, Neutron Star. Omega Cassiopeiae (ω Cassiopeiae) is a binary star[2] system in the northern constellation of Cassiopeia.  
 
 
 Note: **Bold** text in the table simply means I need to check a bit more on that topic.
@@ -78,13 +78,19 @@ Note: **Bold** text in the table simply means I need to check a bit more on that
 [V509 Cassiopeiae](https://en.wikipedia.org/wiki/V509_Cassiopeiae)  
 > a second example of the extremely rare yellow hypergiants, which is around 400,000 times as luminous as the Sun, around 4,500 light-years from Earth
 
-[6 Cassiopeiae](https://en.wikipedia.org/wiki/6_Cassiopeiae)
+[6 Cassiopeiae](https://en.wikipedia.org/wiki/6_Cassiopeiae)  
 [PZ Cassiopeiae](https://en.wikipedia.org/wiki/PZ_Cassiopeiae) is a red supergiant (as `HIP 117078` 18K LY)
 > one of the **largest stars currently known** with an estimate of 1,190 times the Sun's radius
 
 [AO Cassiopeiae](https://en.wikipedia.org/wiki/AO_Cassiopeiae)
 > also known as Pearce's Star
 
+### V776 Cassiopeiae
+Persistant `Distress Call` USS with `FNV Formidable` Farragut-Class Bettlecruiser in distress, appears to be a bit broken. Perhaps we haven't figured out how to do this USS just yet.  
+Perhaps we're supposed to take down the Pirate battlecruiser quickly enough so it won't jump?  
+
+### 32 Cassiopeiae  
+BH and some 10+ stars.  
 
 
 ### Spectating from Alpha Centauri
