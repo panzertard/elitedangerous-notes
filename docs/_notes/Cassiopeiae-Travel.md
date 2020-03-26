@@ -20,6 +20,8 @@ From BH, aim for Cupid (s171-33). `Wredguia Ev-x C14-7`
 
 HIP 86. BH grab  
 HIP 139. BH grab  
+HIP 5569 BH, Neutron
+HIP 3736 BH, Neutron
 CEL 5756. Doesn't fit any known star catalog or naming scheme. Why?  
 
 ## Travel list  

@@ -44,7 +44,7 @@ Lambda Andromedae | 86.16 | 00 | 00 | | HQ
 Te Kaha | 232.27 | | | Maori+Eng+Maori: `The Power` or `The ability` -> `strong` | New Horizons  
 HIP 8396 | 298.16 | | |  | Stepping Stone Base, Titus Station  
 Takurua | 359.23  | | |  Maori: `(It's) winter` | New Horizons Orbital
-Almagest | 386.24 | | |  Eng->Maori->Eng `Almagest`->`Tino Aroha`->`Really Love` | Sirius Reach 
+Almagest | 386.24 | | |  Eng->Maori->Eng `Almagest`->`Tino Aroha`->`Really Love` | Sirius Reach. **[Almagest](https://en.wikipedia.org/wiki/Almagest)** is synonomous Ptolemy and with work from [Hipparchus](https://en.wikipedia.org/wiki/Hipparchus)
 Robigo | 436.81 | | |  | Hauser's Reach  
 Ceos | 486.64 | | |  | Brunel Hub, New Dawn, Babbage Gateway  
 Sothis | 494.49 | | |  | Velinski Enterprise, Newholm Station, Don's Inheritance, Sothis Mining, **Vantage Point**
