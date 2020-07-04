@@ -3,7 +3,7 @@ tags: Black Flight, USS
 ---
 
 # Black Flight
-I just picked on some things I didn't know. `[Mod] Node` dumped a bit of info over at Canonn Discord.  
+I just picked on some things I didn't know. `[Mod] Node` dumped a bit of info over at [Canonn Discord](https://discordapp.com/channels/146714487695605760/344094711339941890/729091983464726659).  
 
 > All this being said, we're pretty sure there's more to find in the Pleiades and those sites, have you ever taken an interest in Black Flight and HIP 22460?  
 
