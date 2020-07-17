@@ -20,3 +20,7 @@ Engineers may have their own '[hidden factions](https://eddb.io/faction/75300)',
 `HIP 12099, 1 b, -54.3, -050.3`
 1 a human POI Stack (INRA base)
 1 b other
+
+## Further study - TODO
+[JJ registration marks on other wrecks?](https://forums.frontier.co.uk/threads/inra-base-discoveries.383412/post-6160826)  
+> Jameson's Cobra - which has the same JJ number as the crashed T9s and Anacondas at one of the Thargoid crash sites...
