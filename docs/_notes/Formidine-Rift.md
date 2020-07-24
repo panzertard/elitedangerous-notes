@@ -13,6 +13,7 @@ Check Drew Wagar's Youtube channel for the Formidine Rift series.
 See [post #2 'Dynasty Expedition of 3270'](https://forums.frontier.co.uk/threads/the-formidine-rift-mystery-part-4.324796/post-5062774) for full details.  
 
 ### Hawkin's Gap (ERP 001)
+<https://canonn.science/tag/hawkins-gap/>
 ```
 System: PLAA AEC IZ-N C20-1
 Beacon around: A
@@ -32,6 +33,7 @@ Rally Point (settlement) on: 2B
 ```
 
 ### CONFLUX(ERP 002)
+<https://canonn.science/tag/conflux/>  
 ```
 System: PRU AESCS TY-J A64-1
 Beacon around: 1
@@ -51,6 +53,7 @@ Rally Point (settlement) on: A3A
 ```
 
 ### Formidine Rift (ERP 003)
+<https://canonn.science/tag/formidine-rift/>  
 ```
 System: EAFOTS EU-R C4-1
 Beacon around: A

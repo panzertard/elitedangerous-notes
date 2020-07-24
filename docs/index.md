@@ -32,7 +32,7 @@ A big thanks to [Michael Brookes](https://forums.frontier.co.uk/members/michael-
 * [Fandom, Raxxla](https://elite-dangerous.fandom.com/wiki/Raxxla)
 
 ### Tools
-* [Star Atlas]( https://staratlas.com/) is an interactive map of the sky - a virtual, online planetarium. Awesome.  
+* [Stellarium Web](https://stellarium-web.org/) is an interactive map of the sky - a virtual, online planetarium. Awesome.  
 
 ##### debug
 [Debugging MarkDown issues](xdebug)
