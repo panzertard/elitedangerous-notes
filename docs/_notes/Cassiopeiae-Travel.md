@@ -132,3 +132,14 @@ Kappa Cassiopeiae|4,468.02| Herbig Ae/Be Star
 V509 Cassiopeiae|
 8 Sigma Cassiopeiae| 4,530.06 | (may have incorrect EDSM info, duplicate of A w/Gas giant)
 
+Search from V589 and list by name to find the rest: <https://www.edsm.net/en/search/bodies/index/cmdrPosition/V589+Cassiopeiae/group/1/name/Cassiopeiae/radius/5000/sortBy/name/p/3>  
+System | Dist | Notes
+-- | -- | --
+KM Cassiopeiae | 6,149.02 | O9
+6 Cassiopeiae | 6,154.04 | A3 I, A2 V
+V589 Cassiopeiae | 6,370.01 | M4 IAB (Huge, nice one)
+Phi Cassiopeiae | 6,653.01 | F0 IA
+LW Cassiopeiae | 7,089.01 | A0 III, F8 VAB
+Rho Cassiopeiae | 11,648.74 | F8 I, B0 VZ
+V37 Cassiopeiae | 19,186.13 | B0 V, B8 IIIAB
+
