@@ -18,15 +18,7 @@
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         {% assign all_categories = post.categories | join; "," %}
-        {% if all_categories == "" %} ,emptystr1 {% endif %}
-        {% if all_categories == nil %} ,nil {% endif %}
-        {% if all_categories == true %} ,true {% endif %}
-        {% if all_categories == false %} ,false {% endif %}
-        {% if all_categories == '' %} ,emptystr2 {% endif %}
-        {% if all_categories == [] %} ,emptyarr {% endif %}
-        {% if all_categories == empty %} ,emptyarr {% endif %}
         {% if all_categories != empty %} in category [{{ all_categories }}] {% endif %}
-         
     </li>
   {% endfor %}
 </ul>
