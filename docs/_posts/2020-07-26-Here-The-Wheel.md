@@ -36,7 +36,7 @@ On the kindle version of the book, contains 4 sections highlighted by the author
 > '_A world that even to them held an aura of magic. But they lost contact with the world and were unable to find it again. Covert surveillance recorded them discussing whether to ask humanity for help, though ultimately they didn't respect or trust us enough._'  
 
 #### Chapter 19, 87%, Loc 4495
-> '_The bored go to Epsilon Eridani, the suicidal go to Phekda, the ship-spotters go to Beta hydri. No one ever goes to Grandmort._'  
+> '_The bored go to Epsilon Eridani, the suicidal go to Phekda, the ship-spotters go to Beta Hydri. No one ever goes to Grandmort._'  
 
 #### Loc 4515
 > '_Now highlight Brohman, Lanaest, Arouca and Delta Phoenicis._' Four new purple points glowed in a zig-zag across space.

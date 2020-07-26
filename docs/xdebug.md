@@ -1,5 +1,12 @@
 # Testpage
 
+#### Categories
+<ul>
+  {% for cat in site.categories %}
+    <h3>{{ cat.category }}</h3>
+  {% endfor %}
+</ul>
+
 #### Posts
 <ul>
   {% for post in site.posts %}
