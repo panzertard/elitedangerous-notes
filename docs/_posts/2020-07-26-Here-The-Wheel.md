@@ -8,26 +8,119 @@ author: panzertard
 
 
 # Synopsis
-Robert Garry, his father Jordan Garry and their crew crosses paths with the Circle of Elite Pilots (CEIP). The Architect has just taken over as their leader when Oberon passed away.
-Both FEDSOD, Alliance, INRA and Imperial forces get involved as the shady business of CEIP becomes clear.
+Robert Garry, his father Jordan Garry and their crew crosses paths with and agent from the Alioth Intelligence Services as well as being targeted by the Circle of Independent Elite Pilots (CIEP). 
+
+_Harper, John. Elite: And Here The Wheel (Elite: Dangerous). Fantastic Books Publishing. Kindle Edition._  
 
 ## Notable characters  
 
 Name | Description
 ---- | ----
-Robert Garry, Robert Ryder | Main character
-Jordan Garry | Father
-Gunn xxxx xxxx | Double Elite pilot, Alliance security forces
-misc crew ... | 
+Robert Garry (Slim) | protagonist, son of _Jordan Garry_ and _Marylin Paul_. Later revealed as a '_Ryder_'.
+Jordan Garry (Wide) | Father of Robert.
+Gunn-Britt Grotenfelt | Double Elite pilot, AIS agent, based out of Montgomery (no such place in ED). 
+The Architect | Current leader of CIEP, antagonist
+Oberon | Former leader of CIEP, deceased
+Wayfarer crew | Ralph, Griff, Matt (on Tactical/Piloting), Gerald (Cargo), Jimmy (Turrets)
+Misc CEIP | Commander Whithers (Sigma-1), Lt. John Graham (CIEP base, reporting to the Leader), Commander Tybalt, Jessica (Gunn's wingman)
+CIEP Elders | Old Tom, Rapier Rick, Hamer the Fisherman, Dominic the Greater, Swenson, (and the rest).
+Misc AIS | Trotsky (Boss), 
+Admiral McKowsky | INRA Behemoth.
+Commander Criddoch | Son of McKowsky? INRA.
+Malin | The Pirate broad, former wingman / crew at Garrys.
+His Highness | The Prince. The Emperor is called by a different name. The Prince is obsessed with the number 5.
+Commander Tybalt | Circle officer who stole the weapon from the Federation.
+
+## Organisations  
+
+Name | Description
+---- | ----
+Federation Secretary of Defence | Lost a Clipper to CIEP, Chapter 1.  
+Circle of Independent Elite Pilots | CIEP. Ceepers. 6 Elders plus the Leader.  
+Alioth Intelligence Service | AIS.
+Garrys | Emblem: A fist clenching a knife superimposed over the St Andrew’s Cross.
 
 ## Places
-#### Chapter 1  
-#### Chapter 2  
+
+Legend: '`Location-name`' in Code-font means system or location in ED is found.
+
+Name | Description
+---- | ----
+`Villist` | Appears to be in the `Brohman` system. Place of Robert's battle.
+`Phekda` | A place where only fools go. _"Couldn’t the selfish fools see they were making a Phekda run in an unarmed Lanner?"_
+Vista Oculto | Jordans old ship. (No _Oculto_ places found in ED).  
+
+
+## Order of events
+Legend: '`Location-name`' in Code-font means system or location in ED is found.
+
+#### Chapter 1
+**Robert**: Performs a heist on a Python freighter.  
+**Gunn**: In Sigma-12 squad, faking a Thargoid attack on the _Federation Secretary of Defence_ Clipper.  
+**Robert**: In New Aberdeen (ref _First Guard of the Royal new Aberdeen_) Inspecting cargo on the way to `Beta Hydri`. Found a mysterious coffin. Having to escape.  
+
+#### Chapter 2
+**The Architect**: Looking for updates of the Federation Secretary of Defence incident. Then performs a briefing for the Elders on the situation.  
+**Gunn**: Breaking in and stealing information from core-systems. Reprimanded by Whithers on her way back. Status message: '_Project Endure is Live_'.
+
 #### Chapter 3  
+**Robert**: Wayfarer at CD 32-331 (no such system, however `CD-32`). Being chased, trying to lose the Ceepers at a gas giant (Green, blue & purple). Makes a misjump to escape.  
+**Admiral McKowsky**: Commander Criddoch reports in on CIEPs activities. Mention of the weapon theft from Eta Cassiopeia (`Eta Cassiopeiae`)  
+
+#### Chapter 4
+**Wayfarer**: Falling out the skies at `Skardee IV`, near the plains of the _Red Wash_. Robert is referring to the chasing Saker ships as "_not the ones from Middleton_" (Middleton doesn't exist). Robert and the crew goes for repairs at _Sovereign Repairs and Salvage_.  
+**Criddoch**: Monitoring and observing CIEP activities in the city, spotting Gunn & Robert.  
+**Gunn**: Caught up on the Garrys. Sat down with Slim & Wide trying to convince them.  
+**Robert**: Walks back to the startport, past Criddoch. The wayfarer has been raided. Everything goes to hell. Taking off and being ambushed.  
+
+#### Chapter 5
+**The Architect**: Commander Tybalt reports on the weapon status. They are planning the event for 'His Highness'.  
+**Wayfarer**: _"The Wayfarer drifted along the coldest sea; a dark system, a dead sun, a collection of rejected rocks and a pitiful asteroid field."_. Jordan tells Robert: _"Now you have to go back. To the beginning, you have to go to Soontill"_.  
+**Robert**: Wayfarer limped through the `Arouca` system and down toward _New Aberdeen_. Robert is trying to return to the beginning as he sees it. He's trying to find his mother's burial place.  
+_(Gap in the story here; how Robert has the memory as a child being part of his mothers burial, knowing where it is, but then can't find her on this planet. It was never explained how he was there at the ceremony while the grave wasn't there. Truly nothing explaining how he has this incorrect and vivid memory. How do you mistake an entire planet and a system?)_  
+**Robert**: Gunn catches up with him in the crematorium.  
+
+#### Chapter 6
+**Gunn**:
+
+#### Chapter 7
+
+#### Chapter 8
+
+#### Chapter 9
+
+#### Chapter 10
+
+#### Chapter 11
+
+#### Chapter 12
+
+#### Chapter 13
+
+#### Chapter 14
+
+#### Chapter 15
+
+#### Chapter 16
+
+#### Chapter 17
+
+#### Chapter 18
+
+#### Chapter 19
+
+#### Chapter 20
+
+#### Chapter 21
+
+#### Chapter 22
+
+#### Chapter 23
+
 
 ## Memorable quotes
-#### Chapter x  
-> TODO  
+#### Chapter 2  
+> ‘_Time to pick up the trash_’ a Circle motto
 
 ## Highlighted sections
 On the kindle version of the book, contains 4 sections highlighted by the author. It's uncertain why these are there. Could it be highlights done by other users? Or is it the authors own highlights?  
