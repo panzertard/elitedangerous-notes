@@ -1,4 +1,15 @@
-### Jekyll and Github pages
+
+# Jekyll, Liquid and Shopify 
+
+## Basic docs
+Jekyll Variables: <https://jekyllrb.com/docs/variables/>  
+Liquid Basics: <https://shopify.github.io/liquid/basics/introduction/>  
+Shopify Basics: <https://shopify.dev/docs/themes/liquid/reference/objects>  
+
+## Categories
+Hierarchical Categories in GitHub Pages: <https://stackoverflow.com/questions/38700154/hierarchical-categories-in-github-pages>  
+
+## Jekyll and Github pages
 It's a real problem getting Jekyll + Liquid to understand that all the URL's should be host at the `/myproject` path.  
 Almost all config variants results with MD-pages being generated at rootlevel (base url?).  
 So instead of getting "https://myuser.github.io/myproject/posts/mypost" relative links have been parsed and presented as "https://myuser.github.io/posts/mypost", missing the "myproject" directory.
