@@ -8,7 +8,7 @@
     <li>
     {{ item }}
     </li>
-{% endif }
+{% endif %}
 {% endfor %}
 </ul>
 
