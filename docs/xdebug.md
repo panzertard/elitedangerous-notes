@@ -4,7 +4,7 @@
 <ul>
   {% for cat in site.categories %}
     <li>
-    {{ cat.CATEGORY }}
+    {{ cat.page.CATEGORY }}
     </li>
   {% endfor %}
 </ul>
