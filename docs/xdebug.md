@@ -4,8 +4,9 @@
 <ul>
   {% for cat in site.categories %}
     <li>
-    {{ post.CATEGORY }} or {{ page.CATEGORY }} or {{ cat.CATEGORY }} or {{ CATEGORY }} or {{ site.categories.CATEGORY }}</br>
-    {{ post.category }} or {{ page.category }} or {{ cat.category }} or {{ category }} or {{ site.categories.category }}
+    {{ post.CATEGORY }} or {{ page.CATEGORY }} or {{ cat.CATEGORY }} or {{ CATEGORY }} or {{ site.categories.CATEGORY }} </br> 
+    {{ post.category }} or {{ page.category }} or {{ cat.category }} or {{ category }} or {{ site.categories.category }} </br> 
+    {{ cat.title }} or {{ cat.value }} or {{ cat.category }} </br> 
     </li>
   {% endfor %}
 </ul>
