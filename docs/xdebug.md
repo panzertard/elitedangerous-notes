@@ -17,7 +17,8 @@
   {% for post in site.posts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        {%if post.categories != "" %} in category [{{ post.categories }}]
+        {% assign all_categories = post.categories | map: "category" %}
+        {% if all_categories != nil %} in category [{{ all_categories }}]
         {% endif %}
         
     </li>
