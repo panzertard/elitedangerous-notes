@@ -1,14 +1,16 @@
 # Testpage
 
 #### Categories
+
+
+{% assign all_categories = site.pages | map: "category" %}
+
 <ul>
-  {% for cat in site.categories %}
+{% for item in all_categories %}
     <li>
-    {{ post.CATEGORY }} or {{ page.CATEGORY }} or {{ cat.CATEGORY }} or {{ CATEGORY }} or {{ site.categories.CATEGORY }} </br> 
-    {{ post.categories }} or {{ cat.post.categories }} or {{ cat.categories }} or {{ categories }} or {{ site.categories }} </br> 
-    {{ cat.url }} or {{ cat.key }} or {{ cat.val }} </br> 
+    {{ item }}
     </li>
-  {% endfor %}
+{% endfor %}
 </ul>
 
 #### Posts
