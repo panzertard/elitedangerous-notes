@@ -11,7 +11,8 @@ author: panzertard
 Robert Garry, his father Jordan Garry and their crew crosses paths with the Circle of Elite Pilots (CEIP). The Architect has just taken over as their leader when Oberon passed away.
 Both FEDSOD, Alliance, INRA and Imperial forces get involved as the shady business of CEIP becomes clear.
 
-## Notable characters
+## Notable characters  
+
 Name | Description
 ---- | ----
 Robert Garry, Robert Ryder | Main character
@@ -25,7 +26,7 @@ Chapter 1
 
 ## Memorable quotes
 Chapter x  
-> A quote  
+> TODO  
 
 ## Highlighted sections
 On the kindle version of the book, contains 4 sections highlighted by the author. It's uncertain why these are there. Could it be highlights done by other users? Or is it the authors own highlights?  
