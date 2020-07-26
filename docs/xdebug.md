@@ -5,7 +5,7 @@
   {% for cat in site.categories %}
     <li>
     {{ post.CATEGORY }} or {{ page.CATEGORY }} or {{ cat.CATEGORY }} or {{ CATEGORY }} or {{ site.categories.CATEGORY }} </br> 
-    {{ post.category }} or {{ page.categories }} or {{ cat.category }} or {{ category }} or {{ site.categories.category }} </br> 
+    {{ post.categories }} or {{ cat.post.categories }} or {{ cat.category }} or {{ category }} or {{ site.categories.category }} </br> 
     {{ cat.title }} or {{ cat.value }} or {{ cat.category }} </br> 
     </li>
   {% endfor %}
