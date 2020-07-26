@@ -15,7 +15,7 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} in category [ {{ post.CATEGORY }} ]</a>
     </li>
   {% endfor %}
 </ul>
