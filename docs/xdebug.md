@@ -1,12 +1,14 @@
 # Testpage
 
 #### Categories
-{% assign all_categories = site.posts | map: "categories" %}
+{% assign all_categories = site.posts | map: "categories" | uniq %}
 <ul>
 {% for item in all_categories %}
+{% if item != nil %}
     <li>
-    {{ item }} or {{ item.CATEGORY }}
+    {{ item }}
     </li>
+{% endif }
 {% endfor %}
 </ul>
 
