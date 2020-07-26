@@ -21,11 +21,12 @@ Gunn xxxx xxxx | Double Elite pilot, Alliance security forces
 misc crew ... | 
 
 ## Places
-Chapter 1  
-
+#### Chapter 1  
+#### Chapter 2  
+#### Chapter 3  
 
 ## Memorable quotes
-Chapter x  
+#### Chapter x  
 > TODO  
 
 ## Highlighted sections
