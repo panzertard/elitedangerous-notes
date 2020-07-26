@@ -6,7 +6,7 @@
     <li>
     {{ post.CATEGORY }} or {{ page.CATEGORY }} or {{ cat.CATEGORY }} or {{ CATEGORY }} or {{ site.categories.CATEGORY }} </br> 
     {{ post.categories }} or {{ cat.post.categories }} or {{ cat.categories }} or {{ categories }} or {{ site.categories }} </br> 
-    {{ cat.title }} or {{ cat.value }} or {{ cat.category }} </br> 
+    {{ cat.url }} or {{ cat.key }} or {{ cat.val }} </br> 
     </li>
   {% endfor %}
 </ul>
