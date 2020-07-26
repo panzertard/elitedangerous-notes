@@ -16,7 +16,10 @@
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} in category [ {{ post.categories }} ]</a>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} 
+        {%if post.categories != nil %} in category [{{ post.categories }}]
+        {% endif %}
+        </a>
     </li>
   {% endfor %}
 </ul>
