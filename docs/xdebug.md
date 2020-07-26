@@ -18,7 +18,8 @@
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         {% assign all_categories = post.categories %}
-        {% if all_categories != nil %} in category [{{ all_categories }}]
+        {% if all_categories != "" %}
+         in category [{{ all_categories }}]
         {% endif %}
         
     </li>
