@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "And Here The wheel summary"
 categories: [investigation]
 tags: [novels]
