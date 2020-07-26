@@ -25,7 +25,8 @@
         {% if all_categories == '' %} ,emptystr2 {% endif %}
         {% if all_categories == [] %} ,emptyarr {% endif %}
         {% if all_categories == empty %} ,emptyarr {% endif %}
-         in category [{{ all_categories }}]
+        {% if all_categories != empty %} in category [{{ all_categories }}] {% endif %}
+         
     </li>
   {% endfor %}
 </ul>
