@@ -1,10 +1,7 @@
 # Testpage
 
 #### Categories
-
-
-{% assign all_categories = site.pages | map: "category" %}
-
+{% assign all_categories = site.posts | map: "category" %}
 <ul>
 {% for item in all_categories %}
     <li>
