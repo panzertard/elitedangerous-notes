@@ -17,7 +17,7 @@
   {% for post in site.posts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        {% assign all_categories = post.categories | join; "," %}
+        {% assign all_categories = post.categories | join: "," %}
         {% if all_categories != empty %} in category [{{ all_categories }}] {% endif %}
     </li>
   {% endfor %}
