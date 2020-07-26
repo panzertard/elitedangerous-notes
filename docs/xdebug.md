@@ -1,11 +1,11 @@
 # Testpage
 
 #### Categories
-{% assign all_categories = site.posts | map: "category" %}
+{% assign all_categories = site.posts | map: "categories" %}
 <ul>
 {% for item in all_categories %}
     <li>
-    {{ item }}
+    {{ item }} or {{ item.CATEGORY }}
     </li>
 {% endfor %}
 </ul>
