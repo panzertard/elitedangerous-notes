@@ -17,7 +17,7 @@
   {% for post in site.posts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        {%if post.categories != nil %} in category [{{ post.categories }}]
+        {%if post.categories != "" %} in category [{{ post.categories }}]
         {% endif %}
         
     </li>
