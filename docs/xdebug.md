@@ -3,7 +3,9 @@
 #### Categories
 <ul>
   {% for cat in site.categories %}
-    <h3>{{ cat.category }}</h3>
+    <li>
+    {{ cat }}
+    </li>
   {% endfor %}
 </ul>
 
