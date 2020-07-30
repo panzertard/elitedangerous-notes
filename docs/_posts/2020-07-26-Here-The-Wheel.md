@@ -42,17 +42,18 @@ Garrys | Emblem: A fist clenching a knife superimposed over the St Andrew’s Cr
 
 ## Places
 
-Legend: '`Location-name`' in Code-font means system or location in ED is found.
+Legend: `Location-name` in Code-font means system or location is in Elite:Dangerous.
 
 Name | Description
 ---- | ----
-`Villist` | Appears to be in the `Brohman` system. Place of Robert's battle.
+New Aberdeen | City, apparently in the `Arouca` system.
+`Villist` | In the `Brohman` system. Place of Robert's battle. Two tourist beacons. _Battle of Villist_ and _Remains of Imbrium City_. _Imbrium City_ not mentioned in the book. The moon `Eden 13913` is not mentioned in the book. Why this name? No forum reference or anything telling us why it has this name.
 `Phekda` | A place where only fools go. _"Couldn’t the selfish fools see they were making a Phekda run in an unarmed Lanner?"_
 Vista Oculto | Jordans old ship. (No _Oculto_ places found in ED).  
-
+Skekkigo 0 B 8 | A Crash site
 
 ## Order of events
-Legend: '`Location-name`' in Code-font means system or location in ED is found.
+Legend: `Location-name` in Code-font means system or location in ED is found.
 
 #### Chapter 1
 **Robert**: Performs a heist on a Python freighter.  
@@ -78,10 +79,11 @@ Legend: '`Location-name`' in Code-font means system or location in ED is found.
 **Wayfarer**: _"The Wayfarer drifted along the coldest sea; a dark system, a dead sun, a collection of rejected rocks and a pitiful asteroid field."_. Jordan tells Robert: _"Now you have to go back. To the beginning, you have to go to Soontill"_.  
 **Robert**: Wayfarer limped through the `Arouca` system and down toward _New Aberdeen_. Robert is trying to return to the beginning as he sees it. He's trying to find his mother's burial place.  
 _(Gap in the story here; how Robert has the memory as a child being part of his mothers burial, knowing where it is, but then can't find her on this planet. It was never explained how he was there at the ceremony while the grave wasn't there. Truly nothing explaining how he has this incorrect and vivid memory. How do you mistake an entire planet and a system?)_  
-**Robert**: Gunn catches up with him in the crematorium.  
+**Robert**: Gunn catches up with him in the crematorium. They reach an understanding.  
 
 #### Chapter 6
-**Gunn**:
+**Gunn**: Taking care of the Ceepers and brining Robert with her. Robert leaves Jordan behind.
+
 
 #### Chapter 7
 
